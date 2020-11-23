@@ -1,12 +1,12 @@
 resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_status
 ,LOCKE MOUNTAIN,lift,closed,,,Alera Group Competition Lift #5,Lift,,2.0,closed
 ,AURORA PEAK,lift,closed,,,Aurora Peak Quad #12,Chairlift,,4.0,closed
-,BARKER MOUNTAIN,lift,closed,,,Barker Mountain Express #1,Chairlift,,4.0,closed
+,BARKER MOUNTAIN,lift,scheduled,,,Barker Mountain Express #1,Chairlift,,4.0,scheduled
 ,SOUTH RIDGE,lift,closed,,,Chondola #7,Gondola,,,closed
 ,JORDAN BOWL,lift,closed,,,Jordan Bowl Express #14,Chairlift,,4.0,closed
 ,JORDAN BOWL,lift,closed,,,Jordan Mountain Double #13,Chairlift,,2.0,closed
 ,WHITE CAP,lift,closed,,,Little White Cap Quad #11,Chairlift,,4.0,closed
-,LOCKE MOUNTAIN,lift,closed,,,Locke Mountain Triple #4,Chairlift,,3.0,closed
+,LOCKE MOUNTAIN,lift,scheduled,,,Locke Mountain Triple #4,Chairlift,,3.0,scheduled
 ,SOUTH RIDGE,lift,closed,,,Lower Sundance Surface Lift #16,Lift,,2.0,closed
 ,SOUTH RIDGE,lift,closed,,,Middle Sundance Surface Lift #17,Lift,,2.0,closed
 ,NORTH PEAK,lift,closed,,,North Peak Express #6,Chairlift,,4.0,closed

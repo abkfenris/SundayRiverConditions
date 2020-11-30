@@ -14,7 +14,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,closed,false,false,,Borealis,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Broadway Connection,easier,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Caramba,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,false,false,,Cascades,more_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,false,false,,Cascades,more_difficult,false,false,open
 ,AURORA PEAK,trail,closed,false,false,,Celestial,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Chutzpah,extremely_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Cowardly Lion,easier,false,false,closed

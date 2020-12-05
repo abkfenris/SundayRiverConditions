@@ -45,12 +45,12 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Heat's On,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Hollywood,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Jibe,more_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,open,true,false,,Jim's Whim,most_difficult,false,false,open
-,BARKER MOUNTAIN,trail,open,true,false,,Jungle Road,more_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,event,false,true,,Jim's Whim,most_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,open,false,true,,Jungle Road,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Kansas,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Last Mile,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Last Tango,most_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,open,true,true,,Lazy River,more_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,open,false,true,,Lazy River,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Lights Out,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Locke Line,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Lollapalooza,easier,false,false,closed
@@ -82,7 +82,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Race Arena,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Ridge Express,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Ridge Run,easier,false,false,closed
-,BARKER MOUNTAIN,trail,open,true,true,,Right Stuff,most_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,open,false,true,,Right Stuff,most_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Road Runner,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Rogue Angel,more_difficult,false,false,closed
@@ -124,7 +124,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,closed,false,false,,Upper Downdraft,most_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Monday Mourning,most_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Upper Moonstruck,more_difficult,false,false,closed
-,SPRUCE PEAK,trail,open,true,true,,Upper Risky Business,more_difficult,false,false,grooming
+,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Upper Tempest,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed

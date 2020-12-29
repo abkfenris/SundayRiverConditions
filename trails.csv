@@ -3,7 +3,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Absolutely,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Agony,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Airglow,most_difficult,false,false,closed
-,AURORA PEAK,trail,open,false,true,,Aludra,easier,false,false,grooming
+,AURORA PEAK,trail,open,true,true,,Aludra,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,American Express,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Assumption,most_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Backside,easier,false,false,closed
@@ -14,7 +14,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,open,false,false,,Borealis,easier,false,false,open
 ,NORTH PEAK,trail,closed,false,false,,Broadway Connection,easier,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Caramba,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,open,true,false,,Cascades,more_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,open,false,true,,Cascades,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Celestial,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Chutzpah,extremely_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Cowardly Lion,easier,false,false,closed
@@ -27,9 +27,9 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,open,false,true,,Ecstasy,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Emerald City,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Enchanted Forest,more_difficult,false,false,closed
-,NORTH PEAK,trail,open,true,false,,Escapade,more_difficult,false,false,open
+,NORTH PEAK,trail,open,false,true,,Escapade,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Eureka,most_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,true,false,,Excalibur,more_difficult,false,false,closed
+,JORDAN BOWL,trail,closed,false,false,,Excalibur,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Exit Left,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Exit Right,easier,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Express Lane,easier,false,false,grooming
@@ -38,7 +38,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,closed,false,false,,Gnarnia,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Goat Path,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Grand Avenue,easier,false,false,closed
-,NORTH PEAK,trail,open,true,false,,Grand Rapids,more_difficult,false,false,open
+,NORTH PEAK,trail,open,false,true,,Grand Rapids,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Green Cheese,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Hard Ball,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Heat's Off,more_difficult,false,false,closed
@@ -50,26 +50,26 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,OZ,trail,open,false,true,,Kansas,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Last Mile,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Last Tango,most_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,open,true,false,,Lazy River,more_difficult,false,false,open
-,AURORA PEAK,trail,open,false,true,,Lights Out,easier,false,false,grooming
+,BARKER MOUNTAIN,trail,open,false,true,,Lazy River,more_difficult,false,false,grooming
+,AURORA PEAK,trail,open,true,true,,Lights Out,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Locke Line,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,,Lollapalooza,easier,false,false,grooming
 ,OZ,trail,closed,false,false,,Lost Princess,most_difficult,false,false,closed
-,SOUTH RIDGE,trail,open,true,false,,Lower Broadway,easier,false,false,open
+,SOUTH RIDGE,trail,open,true,true,,Lower Broadway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,false,false,,Lower Chondi Line,easier,false,false,closed
-,SPRUCE PEAK,trail,closed,false,false,,Lower Downdraft,more_difficult,false,false,closed
-,SOUTH RIDGE,trail,open,false,true,,Lower Lazy River,easier,false,false,grooming
+,SPRUCE PEAK,trail,closed,true,false,,Lower Downdraft,more_difficult,false,false,closed
+,SOUTH RIDGE,trail,open,true,true,,Lower Lazy River,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Lower Monday Mourning,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Lower Moonstruck,easier,false,false,closed
-,SPRUCE PEAK,trail,open,false,false,,Lower Risky Business,more_difficult,false,false,open
-,WHITE CAP,trail,closed,false,false,,Lower Tempest,more_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,true,false,,Lower Risky Business,more_difficult,false,false,open
+,WHITE CAP,trail,closed,true,false,,Lower Tempest,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Lower Upper Cut,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Mixing Bowl,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,North Woods,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Northern Exposure,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,true,,Northern Lights,more_difficult,false,false,grooming
-,SOUTH RIDGE,trail,closed,false,false,,Northway,easier,false,false,closed
-,WHITE CAP,trail,open,false,false,,Obsession,most_difficult,false,false,open
+,SOUTH RIDGE,trail,closed,true,false,,Northway,easier,false,false,closed
+,WHITE CAP,trail,open,true,false,,Obsession,most_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Outta Here,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Over Easy,easier,false,false,closed
 ,SPRUCE PEAK,trail,open,false,false,,Overdraft,more_difficult,false,false,open
@@ -81,8 +81,8 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,closed,false,false,,Quantum Leap,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Race Arena,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Ridge Express,easier,false,false,closed
-,SOUTH RIDGE,trail,closed,false,false,,Ridge Run,easier,false,false,closed
-,BARKER MOUNTAIN,trail,open,true,false,,Right Stuff,most_difficult,false,false,open
+,SOUTH RIDGE,trail,closed,true,false,,Ridge Run,easier,false,false,closed
+,BARKER MOUNTAIN,trail,open,false,true,,Right Stuff,most_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Road Runner,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,,Rogue Angel,more_difficult,false,false,grooming
@@ -93,10 +93,10 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Second Thoughts,easier,false,false,closed
 ,NORTH PEAK,trail,open,false,true,,Sensation,easier,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Shock Wave,extremely_difficult,false,false,closed
-,SPRUCE PEAK,trail,open,false,true,,Sirius,easier,false,false,grooming
+,SPRUCE PEAK,trail,open,true,true,,Sirius,easier,false,false,grooming
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Sluice,more_difficult,false,false,closed
-,WHITE CAP,trail,open,true,false,,Snowbound,most_difficult,false,false,open
+,WHITE CAP,trail,open,false,true,,Snowbound,most_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,false,false,,South Paw,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Southway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,false,false,,Spectator,easier,false,false,closed
@@ -116,17 +116,17 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Tightwire,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Tin Woodsman,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Top Gun,extremely_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,open,true,false,,Tourist Trap,more_difficult,false,false,open
+,BARKER MOUNTAIN,trail,open,false,true,,Tourist Trap,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Upper Airglow,most_difficult,false,false,closed
-,SOUTH RIDGE,trail,open,true,false,,Upper Broadway,easier,false,false,open
+,SOUTH RIDGE,trail,open,true,true,,Upper Broadway,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Upper Chondi Line,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Upper Cut,most_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Upper Downdraft,most_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Monday Mourning,most_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Upper Moonstruck,more_difficult,false,false,closed
-,SPRUCE PEAK,trail,closed,false,false,,Upper Risky Business,more_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,open,true,false,,Upper Sunday Punch,more_difficult,false,false,open
-,WHITE CAP,trail,closed,false,false,,Upper Tempest,most_difficult,false,false,closed
+,SPRUCE PEAK,trail,closed,true,false,,Upper Risky Business,more_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
+,WHITE CAP,trail,closed,true,false,,Upper Tempest,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Vortex,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,White Heat,extremely_difficult,false,false,closed

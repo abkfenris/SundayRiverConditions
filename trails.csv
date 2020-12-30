@@ -20,7 +20,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,OZ,trail,closed,false,false,,Cowardly Lion,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Crossbow,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Cutoff,more_difficult,false,false,closed
-,OZ,trail,open,false,false,,Cyclone,easier,false,false,open
+,OZ,trail,open,false,true,,Cyclone,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Double Dipper,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Dream Maker,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Easy Street,easier,false,false,grooming
@@ -104,7 +104,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,true,,Starlight,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Starstruck,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Starwood,most_difficult,false,false,closed
-,OZ,trail,open,false,false,,State Fair,easier,false,false,open
+,OZ,trail,open,false,true,,State Fair,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Sundance,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Sunday Punch,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Super Nova,extremely_difficult,false,false,closed
@@ -124,7 +124,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,closed,false,false,,Upper Downdraft,most_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Monday Mourning,most_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Upper Moonstruck,more_difficult,false,false,closed
-,SPRUCE PEAK,trail,closed,true,false,,Upper Risky Business,more_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,true,false,,Upper Risky Business,more_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,true,false,,Upper Tempest,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed

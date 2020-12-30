@@ -29,7 +29,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Enchanted Forest,more_difficult,false,false,closed
 ,NORTH PEAK,trail,open,false,true,,Escapade,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Eureka,most_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,false,false,,Excalibur,more_difficult,false,false,closed
+,JORDAN BOWL,trail,closed,true,false,,Excalibur,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Exit Left,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Exit Right,easier,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Express Lane,easier,false,false,grooming
@@ -118,7 +118,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,closed,false,false,,Top Gun,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,,Tourist Trap,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Upper Airglow,most_difficult,false,false,closed
-,SOUTH RIDGE,trail,open,true,true,,Upper Broadway,easier,false,false,grooming
+,SOUTH RIDGE,trail,open,false,true,,Upper Broadway,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Upper Chondi Line,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Upper Cut,most_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Upper Downdraft,most_difficult,false,false,closed

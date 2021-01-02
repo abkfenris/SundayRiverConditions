@@ -12,7 +12,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,closed,false,false,,Black Hole,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Blind Ambition,most_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,false,,Borealis,easier,false,false,open
-,NORTH PEAK,trail,closed,false,false,,Broadway Connection,easier,false,false,closed
+,NORTH PEAK,trail,open,false,false,,Broadway Connection,easier,false,false,open
 ,JORDAN BOWL,trail,closed,false,false,,Caramba,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Cascades,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Celestial,extremely_difficult,false,false,closed
@@ -41,7 +41,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,true,,Grand Rapids,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,true,false,,Green Cheese,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Hard Ball,extremely_difficult,false,false,closed
-,WHITE CAP,trail,closed,false,false,,Heat's Off,more_difficult,false,false,closed
+,WHITE CAP,trail,open,false,true,,Heat's Off,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,false,,Heat's On,more_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Hollywood,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Jibe,more_difficult,false,false,closed

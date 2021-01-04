@@ -86,7 +86,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,true,,Road Runner,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,,Rogue Angel,more_difficult,false,false,grooming
-,JORDAN BOWL,trail,closed,false,false,,Roundabout,easier,false,false,closed
+,JORDAN BOWL,trail,open,false,false,,Roundabout,easier,false,false,open
 ,OZ,trail,closed,false,false,,Ruby Palace,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Salvation,more_difficult,false,false,closed
 ,NORTH PEAK,trail,open,false,true,,Second Mile,easier,false,false,grooming

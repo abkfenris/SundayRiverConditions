@@ -2,7 +2,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,true,false,,3D,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Absolutely,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Agony,extremely_difficult,false,false,closed
-,AURORA PEAK,trail,closed,true,false,,Airglow,most_difficult,false,false,closed
+,AURORA PEAK,trail,open,true,false,,Airglow,most_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Aludra,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,American Express,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Assumption,most_difficult,false,false,closed
@@ -70,7 +70,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,open,false,true,,Northern Lights,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Northway,easier,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Obsession,most_difficult,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,true,false,,Outta Here,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,open,true,false,,Outta Here,more_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Over Easy,easier,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Overdraft,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,true,false,,Paradigm,more_difficult,false,false,closed

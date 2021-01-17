@@ -1,7 +1,7 @@
 resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_status
 ,LOCKE MOUNTAIN,lift,open,,,Alera Group Competition Lift #5,Lift,,2.0,open
 ,AURORA PEAK,lift,open,,,Aurora Peak Quad #12,Chairlift,,4.0,open
-,BARKER MOUNTAIN,lift,on_hold,,,Barker Mountain Express #1,Chairlift,,4.0,on_hold
+,BARKER MOUNTAIN,lift,open,,,Barker Mountain Express #1,Chairlift,,4.0,open
 ,SOUTH RIDGE,lift,open,,,Chondola #7,Gondola,,,open
 ,JORDAN BOWL,lift,on_hold,,,Jordan Bowl Express #14,Chairlift,,4.0,on_hold
 ,JORDAN BOWL,lift,open,,,Jordan Mountain Double #13,Chairlift,,2.0,open
@@ -9,11 +9,11 @@ resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_s
 ,LOCKE MOUNTAIN,lift,open,,,Locke Mountain Triple #4,Chairlift,,3.0,open
 ,SOUTH RIDGE,lift,open,,,Lower Sundance Surface Lift #16,Lift,,2.0,open
 ,SOUTH RIDGE,lift,open,,,Middle Sundance Surface Lift #17,Lift,,2.0,open
-,NORTH PEAK,lift,on_hold,,,North Peak Express #6,Chairlift,,4.0,on_hold
-,OZ,lift,scheduled,,,OZ Quad #15,Chairlift,,4.0,scheduled
+,NORTH PEAK,lift,open,,,North Peak Express #6,Chairlift,,4.0,open
+,OZ,lift,open,,,OZ Quad #15,Chairlift,,4.0,open
 ,AURORA PEAK,lift,open,,,Quantum Leap Triple #3,Chairlift,,3.0,open
 ,SOUTH RIDGE,lift,open,,,South Ridge Express #2,Chairlift,,4.0,open
 ,SPRUCE PEAK,lift,open,,,Spruce Peak Triple #8,Chairlift,,3.0,open
 ,SOUTH RIDGE,lift,open,,,Upper Sundance Surface Lift #18,Lift,,2.0,open
 ,WHITE CAP,lift,open,,,White Cap Quad #9,Chairlift,,4.0,open
-,WHITE CAP,lift,open,,,White Heat Quad #10,Chairlift,,4.0,open
+,WHITE CAP,lift,on_hold,,,White Heat Quad #10,Chairlift,,4.0,on_hold

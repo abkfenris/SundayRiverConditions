@@ -30,7 +30,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,Escapade,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Eureka,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,,Excalibur,more_difficult,false,false,grooming
-,SPRUCE PEAK,trail,closed,false,false,,Exit Left,more_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,,false,,Exit Left,more_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,,Exit Right,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Express Lane,easier,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Firestar,more_difficult,false,false,grooming
@@ -91,7 +91,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,true,,Salvation,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Second Mile,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Second Thoughts,easier,false,false,closed
-,NORTH PEAK,trail,open,false,true,,Sensation,easier,false,false,grooming
+,NORTH PEAK,trail,scheduled,false,true,,Sensation,easier,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Shock Wave,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Sirius,easier,false,false,grooming
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed

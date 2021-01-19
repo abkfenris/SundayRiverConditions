@@ -1,7 +1,7 @@
 resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trail,with_snowmaking,global_status
 ,NORTH PEAK,trail,open,false,true,,3D,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Absolutely,more_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,closed,false,false,,Agony,extremely_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,open,false,false,,Agony,extremely_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Airglow,most_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Aludra,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,American Express,more_difficult,false,false,grooming
@@ -122,7 +122,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Upper Chondi Line,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,false,,Upper Cut,most_difficult,false,false,open
 ,SPRUCE PEAK,trail,open,false,false,,Upper Downdraft,most_difficult,false,false,open
-,LOCKE MOUNTAIN,trail,event,false,true,,Upper Monday Mourning,most_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,open,false,true,,Upper Monday Mourning,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Upper Moonstruck,more_difficult,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming

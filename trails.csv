@@ -5,7 +5,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,open,false,true,,Airglow,most_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Aludra,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,American Express,more_difficult,false,false,grooming
-,WHITE CAP,trail,open,false,false,,Assumption,most_difficult,false,false,open
+,WHITE CAP,trail,open,false,true,,Assumption,most_difficult,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Backside,easier,false,false,closed
 ,WHITE CAP,trail,open,false,true,,Bear Paw,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,false,,Bim's Whim,most_difficult,false,false,open
@@ -78,7 +78,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Polaris,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Poma Road,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Poppy Fields,extremely_difficult,false,false,closed
-,AURORA PEAK,trail,closed,false,false,,Quantum Leap,extremely_difficult,false,false,closed
+,AURORA PEAK,trail,closed,true,false,,Quantum Leap,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,event,false,true,,Race Arena,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Ridge Express,easier,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,,Ridge Run,easier,false,false,grooming
@@ -92,7 +92,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,Second Mile,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,Second Thoughts,easier,false,false,closed
 ,NORTH PEAK,trail,open,false,true,,Sensation,easier,false,false,grooming
-,WHITE CAP,trail,open,true,false,,Shock Wave,extremely_difficult,false,false,open
+,WHITE CAP,trail,open,false,false,,Shock Wave,extremely_difficult,false,false,open
 ,SPRUCE PEAK,trail,open,false,true,,Sirius,easier,false,false,grooming
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,false,,Sluice,more_difficult,false,false,open

@@ -84,7 +84,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Ridge Run,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Right Stuff,most_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Road Runner,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,open,false,false,,Rocking Chair,more_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,,Rogue Angel,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,false,,Roundabout,easier,false,false,open
 ,OZ,trail,closed,false,false,,Ruby Palace,extremely_difficult,false,false,closed
@@ -100,7 +100,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,closed,false,false,,South Paw,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Southway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Spectator,easier,false,false,open
-,WHITE CAP,trail,closed,false,false,,Starburst,more_difficult,false,false,closed
+,WHITE CAP,trail,open,false,false,,Starburst,more_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,Starlight,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Starstruck,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Starwood,most_difficult,false,false,closed
@@ -127,7 +127,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Upper Tempest,most_difficult,false,false,grooming
-,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
+,WHITE CAP,trail,open,,false,,Village Trail,easier,false,false,open
 ,AURORA PEAK,trail,open,false,false,,Vortex,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,White Heat,extremely_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Wildfire,more_difficult,false,false,grooming

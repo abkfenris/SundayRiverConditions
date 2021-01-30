@@ -55,16 +55,16 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,false,,Locke Line,most_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,,Lollapalooza,easier,false,false,grooming
 ,OZ,trail,open,false,false,,Lost Princess,most_difficult,false,false,open
-,SOUTH RIDGE,trail,open,true,false,,Lower Broadway,easier,false,false,open
+,SOUTH RIDGE,trail,open,false,false,,Lower Broadway,easier,false,false,open
 ,SOUTH RIDGE,trail,open,false,false,,Lower Chondi Line,easier,false,false,open
 ,SPRUCE PEAK,trail,open,false,true,,Lower Downdraft,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Lower Lazy River,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,event,false,true,,Lower Monday Mourning,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Lower Moonstruck,easier,false,false,grooming
-,SPRUCE PEAK,trail,open,true,false,,Lower Risky Business,more_difficult,false,false,open
+,SPRUCE PEAK,trail,open,false,true,,Lower Risky Business,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Lower Tempest,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,false,,Lower Upper Cut,more_difficult,false,false,open
-,SOUTH RIDGE,trail,open,true,true,,Mixing Bowl,easier,false,false,grooming
+,SOUTH RIDGE,trail,open,false,true,,Mixing Bowl,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,North Woods,extremely_difficult,false,false,open
 ,NORTH PEAK,trail,closed,false,false,,Northern Exposure,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,true,,Northern Lights,more_difficult,false,false,grooming
@@ -97,7 +97,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,false,,Sluice,more_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,Snowbound,most_difficult,false,false,grooming
-,BARKER MOUNTAIN,trail,open,false,false,,South Paw,more_difficult,false,false,open
+,BARKER MOUNTAIN,trail,open,false,true,,South Paw,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Southway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Spectator,easier,false,false,open
 ,WHITE CAP,trail,open,false,false,,Starburst,more_difficult,false,false,open
@@ -124,7 +124,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,open,false,false,,Upper Downdraft,most_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,event,false,true,,Upper Monday Mourning,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Upper Moonstruck,more_difficult,false,false,grooming
-,SPRUCE PEAK,trail,open,true,false,,Upper Risky Business,more_difficult,false,false,open
+,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Upper Tempest,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,,false,,Village Trail,easier,false,false,open

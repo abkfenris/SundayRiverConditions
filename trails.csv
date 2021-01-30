@@ -77,7 +77,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,Peak Easy,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,Polaris,easier,false,false,open
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Poma Road,most_difficult,false,false,closed
-,OZ,trail,closed,false,false,,Poppy Fields,extremely_difficult,false,false,closed
+,OZ,trail,open,false,false,,Poppy Fields,extremely_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,false,,Quantum Leap,extremely_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,event,false,true,,Race Arena,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Ridge Express,easier,false,false,open

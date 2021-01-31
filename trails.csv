@@ -35,7 +35,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,false,,Express Lane,easier,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Firestar,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Flyin' Monkey,extremely_difficult,false,false,closed
-,SPRUCE PEAK,trail,closed,false,false,,Gnarnia,extremely_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,false,false,,Gnarnia,extremely_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,false,,Goat Path,more_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,,Grand Avenue,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Grand Rapids,more_difficult,false,false,grooming

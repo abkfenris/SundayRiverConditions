@@ -16,4 +16,4 @@ resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_s
 ,SPRUCE PEAK,lift,scheduled,,,Spruce Peak Triple #8,Chairlift,,3.0,scheduled
 ,SOUTH RIDGE,lift,scheduled,,,Upper Sundance Surface Lift #18,Lift,,2.0,scheduled
 ,WHITE CAP,lift,scheduled,,,White Cap Quad #9,Chairlift,,4.0,scheduled
-,WHITE CAP,lift,scheduled,,,White Heat Quad #10,Chairlift,,4.0,scheduled
+,WHITE CAP,lift,on_hold,,,White Heat Quad #10,Chairlift,,4.0,on_hold

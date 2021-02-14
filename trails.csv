@@ -75,7 +75,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,open,false,true,,Overdraft,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Paradigm,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Peak Easy,more_difficult,false,false,grooming
-,NORTH PEAK,trail,open,false,false,,Polaris,easier,false,false,open
+,NORTH PEAK,trail,open,false,true,,Polaris,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,event,false,false,,Poma Road,most_difficult,false,false,closed
 ,OZ,trail,open,false,false,,Poppy Fields,extremely_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Quantum Leap,extremely_difficult,false,false,grooming

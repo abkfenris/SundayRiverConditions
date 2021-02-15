@@ -97,7 +97,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,false,,Sluice,more_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,Snowbound,most_difficult,false,false,grooming
-,BARKER MOUNTAIN,trail,open,false,false,,South Paw,more_difficult,false,false,open
+,BARKER MOUNTAIN,trail,open,false,true,,South Paw,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Southway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Spectator,easier,false,false,open
 ,WHITE CAP,trail,open,false,false,,Starburst,more_difficult,false,false,open

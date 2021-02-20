@@ -88,7 +88,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,JORDAN BOWL,trail,open,false,true,,Rogue Angel,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,,Roundabout,easier,false,false,grooming
 ,OZ,trail,open,false,false,,Ruby Palace,extremely_difficult,false,false,open
-,WHITE CAP,trail,open,false,true,,Salvation,more_difficult,false,false,grooming
+,WHITE CAP,trail,open,false,false,,Salvation,more_difficult,false,false,open
 ,NORTH PEAK,trail,open,false,true,,Second Mile,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Second Thoughts,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Sensation,easier,false,false,grooming

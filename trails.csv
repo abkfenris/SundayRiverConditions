@@ -1,5 +1,5 @@
 resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trail,with_snowmaking,global_status
-,NORTH PEAK,trail,open,false,true,,3D,more_difficult,false,false,grooming
+,NORTH PEAK,trail,event,false,true,,3D,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,Absolutely,more_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,open,false,false,,Agony,extremely_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Airglow,most_difficult,false,false,grooming
@@ -127,7 +127,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Upper Tempest,most_difficult,false,false,grooming
-,WHITE CAP,trail,open,,false,,Village Trail,easier,false,false,open
+,WHITE CAP,trail,open,,true,,Village Trail,easier,false,false,grooming
 ,AURORA PEAK,trail,open,false,false,,Vortex,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,White Heat,extremely_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Wildfire,more_difficult,false,false,grooming

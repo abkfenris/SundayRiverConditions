@@ -82,7 +82,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,true,,Race Arena,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Ridge Express,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Ridge Run,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,open,false,true,,Right Stuff,most_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,open,true,false,,Right Stuff,most_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,true,,Road Runner,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,scheduled,false,true,,Rocking Chair,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,,Rogue Angel,more_difficult,false,false,grooming
@@ -129,7 +129,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,true,,Upper Tempest,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,,true,,Village Trail,easier,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Vortex,extremely_difficult,false,false,closed
-,WHITE CAP,trail,open,false,true,,White Heat,extremely_difficult,false,false,grooming
+,WHITE CAP,trail,open,true,false,,White Heat,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,Wildfire,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Witch Way,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Wizard's Gulch,extremely_difficult,false,false,closed

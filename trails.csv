@@ -15,7 +15,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Broadway Connection,easier,false,false,closed
 ,JORDAN BOWL,trail,open,false,false,,Caramba,extremely_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,true,,Cascades,more_difficult,false,false,grooming
-,AURORA PEAK,trail,closed,false,false,,Celestial,extremely_difficult,false,false,closed
+,AURORA PEAK,trail,open,false,false,,Celestial,extremely_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Chutzpah,extremely_difficult,false,false,closed
 ,OZ,trail,open,false,true,,Cowardly Lion,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Crossbow,most_difficult,false,false,closed
@@ -107,7 +107,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,OZ,trail,open,false,true,,State Fair,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Sundance,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,false,,Sunday Punch,more_difficult,false,false,open
-,AURORA PEAK,trail,closed,false,false,,Super Nova,extremely_difficult,false,false,closed
+,AURORA PEAK,trail,open,false,false,,Super Nova,extremely_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,false,,T2,most_difficult,false,false,open
 ,NORTH PEAK,trail,open,false,true,,T72 Lower,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,T72 Upper,more_difficult,false,false,grooming

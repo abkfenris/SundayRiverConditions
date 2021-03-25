@@ -34,7 +34,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Exit Right,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Express Lane,easier,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Firestar,more_difficult,false,false,grooming
-,OZ,trail,open,false,false,,Flyin' Monkey,extremely_difficult,false,false,open
+,OZ,trail,closed,false,false,,Flyin' Monkey,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Gnarnia,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,false,,Goat Path,more_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,,Grand Avenue,easier,false,false,grooming
@@ -113,7 +113,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,T72 Upper,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Thataway,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,false,,Three Mile Trail,easier,false,false,open
-,LOCKE MOUNTAIN,trail,open,false,false,,Tightwire,most_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,,Tightwire,most_difficult,false,false,closed
 ,OZ,trail,open,false,false,,Tin Woodsman,extremely_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,open,false,false,,Top Gun,extremely_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,open,false,false,,Tourist Trap,more_difficult,false,false,open
@@ -132,5 +132,5 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,false,,White Heat,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,Wildfire,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Witch Way,more_difficult,false,false,closed
-,JORDAN BOWL,trail,open,false,false,,Wizard's Gulch,extremely_difficult,false,false,open
+,JORDAN BOWL,trail,closed,false,false,,Wizard's Gulch,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Yetiville,most_difficult,false,false,closed

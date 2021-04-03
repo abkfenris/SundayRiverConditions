@@ -11,7 +11,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,false,,Bim's Whim,most_difficult,false,false,open
 ,AURORA PEAK,trail,closed,false,false,,Black Hole,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Blind Ambition,most_difficult,false,false,closed
-,AURORA PEAK,trail,closed,false,false,,Borealis,easier,false,false,closed
+,AURORA PEAK,trail,open,false,false,,Borealis,easier,false,false,open
 ,NORTH PEAK,trail,closed,false,false,,Broadway Connection,easier,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Caramba,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Cascades,more_difficult,false,false,grooming

@@ -27,7 +27,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,open,false,true,,Ecstasy,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Emerald City,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Enchanted Forest,more_difficult,false,false,closed
-,NORTH PEAK,trail,closed,false,false,,Escapade,more_difficult,false,false,closed
+,NORTH PEAK,trail,open,false,false,,Escapade,more_difficult,false,false,open
 ,OZ,trail,closed,false,false,,Eureka,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,true,,Excalibur,more_difficult,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,Exit Left,more_difficult,false,false,grooming
@@ -111,7 +111,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,true,,T2,most_difficult,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,T72 Lower,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,T72 Upper,more_difficult,false,false,closed
-,SOUTH RIDGE,trail,closed,false,false,,Thataway,easier,false,false,closed
+,SOUTH RIDGE,trail,open,false,false,,Thataway,easier,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Three Mile Trail,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Tightwire,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Tin Woodsman,extremely_difficult,false,false,closed

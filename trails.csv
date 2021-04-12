@@ -63,7 +63,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Lower Moonstruck,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Lower Risky Business,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Lower Tempest,more_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,open,false,false,,Lower Upper Cut,more_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,,Lower Upper Cut,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Mixing Bowl,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,North Woods,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Northern Exposure,extremely_difficult,false,false,closed
@@ -97,7 +97,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Sluice,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Snowbound,most_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,open,false,false,,South Paw,more_difficult,false,false,open
+,BARKER MOUNTAIN,trail,closed,false,false,,South Paw,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Southway,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Spectator,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Starburst,more_difficult,false,false,closed

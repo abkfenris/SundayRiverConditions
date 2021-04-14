@@ -19,7 +19,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Chutzpah,extremely_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Cowardly Lion,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Crossbow,most_difficult,false,false,closed
-,WHITE CAP,trail,open,false,true,,Cutoff,more_difficult,false,false,grooming
+,WHITE CAP,trail,closed,false,false,,Cutoff,more_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Cyclone,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Double Dipper,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Dream Maker,easier,false,false,closed
@@ -84,7 +84,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,closed,false,false,,Ridge Run,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,false,,Right Stuff,most_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Road Runner,easier,false,false,closed
-,BARKER MOUNTAIN,trail,open,false,true,,Rocking Chair,more_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Rogue Angel,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Roundabout,easier,false,false,closed
 ,OZ,trail,closed,false,false,,Ruby Palace,extremely_difficult,false,false,closed

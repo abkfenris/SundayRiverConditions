@@ -46,7 +46,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,closed,false,false,,Hollywood,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Jibe,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Jim's Whim,most_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,scheduled,false,false,,Jungle Road,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,closed,false,false,,Jungle Road,more_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Kansas,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Last Mile,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Last Tango,most_difficult,false,false,closed

@@ -23,7 +23,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,OZ,trail,closed,false,false,,Cyclone,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Double Dipper,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Dream Maker,easier,false,false,closed
-,SOUTH RIDGE,trail,closed,false,true,,Easy Street,easier,false,false,grooming
+,SOUTH RIDGE,trail,closed,false,false,,Easy Street,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Ecstasy,more_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Emerald City,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Enchanted Forest,more_difficult,false,false,closed
@@ -79,7 +79,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Poma Road,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Poppy Fields,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Quantum Leap,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,false,true,,Race Arena,more_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,closed,false,false,,Race Arena,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Ridge Express,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Ridge Run,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Right Stuff,most_difficult,false,false,closed
@@ -125,7 +125,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Upper Monday Mourning,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Upper Moonstruck,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Upper Risky Business,more_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,closed,false,false,,Upper Sunday Punch,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Upper Tempest,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Vortex,extremely_difficult,false,false,closed

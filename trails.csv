@@ -50,7 +50,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,OZ,trail,closed,false,false,,Kansas,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Last Mile,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Last Tango,most_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,closed,true,false,,Lazy River,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,scheduled,true,false,,Lazy River,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Lights Out,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Locke Line,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Lollapalooza,easier,false,false,closed
@@ -116,7 +116,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Tightwire,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Tin Woodsman,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Top Gun,extremely_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,closed,true,false,,Tourist Trap,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,scheduled,true,false,,Tourist Trap,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Upper Airglow,most_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,true,false,,Upper Broadway,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Upper Chondi Line,more_difficult,false,false,closed

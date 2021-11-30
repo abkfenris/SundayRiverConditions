@@ -59,7 +59,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,closed,false,false,,Lower Chondi Line,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Lower Downdraft,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Lower Lazy River,easier,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,true,false,,Lower Monday Mourning,more_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,true,false,,Lower Monday Mourning,more_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Lower Moonstruck,easier,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Lower Risky Business,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Lower Tempest,more_difficult,false,false,closed
@@ -111,7 +111,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,true,,T2,most_difficult,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,T72 Lower,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,T72 Upper,more_difficult,false,false,closed
-,SOUTH RIDGE,trail,closed,false,false,,Thataway,easier,false,false,closed
+,SOUTH RIDGE,trail,open,false,false,,Thataway,easier,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Three Mile Trail,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Tightwire,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Tin Woodsman,extremely_difficult,false,false,closed
@@ -122,7 +122,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Upper Chondi Line,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Upper Cut,most_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Upper Downdraft,most_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,true,false,,Upper Monday Mourning,most_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,true,false,,Upper Monday Mourning,most_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Upper Moonstruck,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,true,false,,Upper Risky Business,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming

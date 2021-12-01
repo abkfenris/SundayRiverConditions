@@ -58,7 +58,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Lower Broadway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,false,false,,Lower Chondi Line,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Lower Downdraft,more_difficult,false,false,closed
-,SOUTH RIDGE,trail,closed,false,false,,Lower Lazy River,easier,false,false,closed
+,SOUTH RIDGE,trail,closed,false,true,,Lower Lazy River,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,true,false,,Lower Monday Mourning,more_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Lower Moonstruck,easier,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Lower Risky Business,more_difficult,false,false,grooming
@@ -70,7 +70,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,closed,false,false,,Northern Lights,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Northway,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Obsession,most_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,open,false,false,,Outta Here,more_difficult,false,false,open
+,BARKER MOUNTAIN,trail,open,false,true,,Outta Here,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Over Easy,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Overdraft,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Paradigm,more_difficult,false,false,closed

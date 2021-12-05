@@ -56,7 +56,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,JORDAN BOWL,trail,closed,false,false,,Lollapalooza,easier,false,false,closed
 ,OZ,trail,closed,false,false,,Lost Princess,most_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Lower Broadway,easier,false,false,grooming
-,SOUTH RIDGE,trail,closed,false,false,,Lower Chondi Line,easier,false,false,closed
+,SOUTH RIDGE,trail,closed,false,true,,Lower Chondi Line,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,true,false,,Lower Downdraft,more_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,,Lower Lazy River,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,event,false,true,,Lower Monday Mourning,more_difficult,false,false,grooming
@@ -72,7 +72,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Obsession,most_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,,Outta Here,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Over Easy,easier,false,false,closed
-,SPRUCE PEAK,trail,closed,false,false,,Overdraft,more_difficult,false,false,closed
+,SPRUCE PEAK,trail,closed,true,false,,Overdraft,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Paradigm,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Peak Easy,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Polaris,easier,false,false,closed
@@ -98,7 +98,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,closed,false,false,,Sluice,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Snowbound,most_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,South Paw,more_difficult,false,false,closed
-,SOUTH RIDGE,trail,closed,false,false,,Southway,easier,false,false,closed
+,SOUTH RIDGE,trail,closed,true,false,,Southway,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Spectator,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Starburst,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Starlight,more_difficult,false,false,closed

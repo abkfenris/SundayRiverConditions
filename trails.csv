@@ -4,7 +4,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,closed,false,false,,Agony,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Airglow,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,true,false,,Aludra,easier,false,false,closed
-,SPRUCE PEAK,trail,open,true,false,,American Express,more_difficult,false,false,open
+,SPRUCE PEAK,trail,closed,true,false,,American Express,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Assumption,most_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Backside,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Bear Paw,easier,false,false,closed
@@ -22,12 +22,12 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Cutoff,more_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Cyclone,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Double Dipper,easier,false,false,closed
-,NORTH PEAK,trail,closed,false,false,,Dream Maker,easier,false,false,closed
+,NORTH PEAK,trail,closed,true,false,,Dream Maker,easier,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Easy Street,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Ecstasy,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Emerald City,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Enchanted Forest,more_difficult,false,false,closed
-,NORTH PEAK,trail,open,true,false,,Escapade,more_difficult,false,false,open
+,NORTH PEAK,trail,closed,true,false,,Escapade,more_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Eureka,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Excalibur,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Exit Left,more_difficult,false,false,closed
@@ -38,7 +38,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SPRUCE PEAK,trail,closed,false,false,,Gnarnia,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Goat Path,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Grand Avenue,easier,false,false,closed
-,NORTH PEAK,trail,open,true,false,,Grand Rapids,more_difficult,false,false,open
+,NORTH PEAK,trail,closed,true,false,,Grand Rapids,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Green Cheese,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Hard Ball,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Heat's Off,more_difficult,false,false,closed
@@ -57,7 +57,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,OZ,trail,closed,false,false,,Lost Princess,most_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Lower Broadway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,false,true,,Lower Chondi Line,easier,false,false,grooming
-,SPRUCE PEAK,trail,open,true,false,,Lower Downdraft,more_difficult,false,false,open
+,SPRUCE PEAK,trail,closed,true,false,,Lower Downdraft,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Lower Lazy River,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,event,false,true,,Lower Monday Mourning,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,false,false,,Lower Moonstruck,easier,false,false,closed
@@ -89,7 +89,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,JORDAN BOWL,trail,closed,false,false,,Roundabout,easier,false,false,closed
 ,OZ,trail,closed,false,false,,Ruby Palace,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Salvation,more_difficult,false,false,closed
-,NORTH PEAK,trail,open,false,false,,Second Mile,easier,false,false,open
+,NORTH PEAK,trail,closed,false,false,,Second Mile,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Second Thoughts,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Sensation,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Shock Wave,extremely_difficult,false,false,closed

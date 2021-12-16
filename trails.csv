@@ -108,7 +108,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Sundance,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Sunday Punch,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Super Nova,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,event,false,true,,T2,most_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,open,false,true,,T2,most_difficult,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,T72 Lower,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,T72 Upper,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Thataway,easier,false,false,grooming

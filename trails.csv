@@ -67,7 +67,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Mixing Bowl,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,North Woods,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Northern Exposure,extremely_difficult,false,false,closed
-,AURORA PEAK,trail,closed,false,false,,Northern Lights,more_difficult,false,false,closed
+,AURORA PEAK,trail,open,false,false,,Northern Lights,more_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,,Northway,easier,false,false,grooming
 ,WHITE CAP,trail,closed,true,false,,Obsession,most_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,,Outta Here,more_difficult,false,false,grooming

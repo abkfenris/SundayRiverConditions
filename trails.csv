@@ -69,7 +69,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,closed,false,false,,Northern Exposure,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,false,,Northern Lights,more_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,,Northway,easier,false,false,grooming
-,WHITE CAP,trail,closed,true,true,,Obsession,most_difficult,false,false,grooming
+,WHITE CAP,trail,open,true,true,,Obsession,most_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Outta Here,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Over Easy,easier,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Overdraft,more_difficult,false,false,grooming
@@ -85,7 +85,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,BARKER MOUNTAIN,trail,open,false,true,,Right Stuff,most_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Road Runner,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,true,false,,Rogue Angel,more_difficult,false,false,closed
+,JORDAN BOWL,trail,open,true,false,,Rogue Angel,more_difficult,false,false,open
 ,JORDAN BOWL,trail,closed,false,false,,Roundabout,easier,false,false,closed
 ,OZ,trail,closed,false,false,,Ruby Palace,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Salvation,more_difficult,false,false,closed

@@ -30,7 +30,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,Escapade,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Eureka,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Excalibur,more_difficult,false,false,closed
-,SPRUCE PEAK,trail,scheduled,false,false,,Exit Left,more_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,false,false,,Exit Left,more_difficult,false,false,open
 ,SOUTH RIDGE,trail,closed,false,false,,Exit Right,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,,Express Lane,easier,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Firestar,more_difficult,false,false,closed

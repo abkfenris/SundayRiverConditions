@@ -7,7 +7,7 @@ resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_s
 ,JORDAN BOWL,lift,closed,,,Jordan Mountain Double #13,Chairlift,,2.0,closed
 ,WHITE CAP,lift,closed,,,Little White Cap Quad #11,Chairlift,,4.0,closed
 ,LOCKE MOUNTAIN,lift,closed,,,Locke Mountain Triple #4,Chairlift,,3.0,closed
-,SOUTH RIDGE,lift,open,,,Lower Sundance Surface Lift #16,Lift,,2.0,open
+,SOUTH RIDGE,lift,scheduled,,,Lower Sundance Surface Lift #16,Lift,,2.0,scheduled
 ,SOUTH RIDGE,lift,scheduled,,,Middle Sundance Surface Lift #17,Lift,,2.0,scheduled
 ,NORTH PEAK,lift,closed,,,North Peak Express #6,Chairlift,,4.0,closed
 ,OZ,lift,closed,,,OZ Quad #15,Chairlift,,4.0,closed

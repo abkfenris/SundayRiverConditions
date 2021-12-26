@@ -32,7 +32,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,JORDAN BOWL,trail,open,false,false,,Excalibur,more_difficult,false,false,open
 ,SPRUCE PEAK,trail,open,false,true,,Exit Left,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Exit Right,easier,false,false,open
-,SOUTH RIDGE,trail,closed,false,true,,Express Lane,easier,false,false,grooming
+,SOUTH RIDGE,trail,open,true,false,,Express Lane,easier,false,false,open
 ,AURORA PEAK,trail,closed,false,false,,Firestar,more_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Flyin' Monkey,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,,Gnarnia,extremely_difficult,false,false,closed

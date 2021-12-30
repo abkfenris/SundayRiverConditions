@@ -5,7 +5,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,open,false,true,,Airglow,most_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Aludra,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,American Express,more_difficult,false,false,grooming
-,WHITE CAP,trail,closed,true,false,,Assumption,most_difficult,false,false,closed
+,WHITE CAP,trail,closed,false,false,,Assumption,most_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Backside,easier,false,false,closed
 ,WHITE CAP,trail,open,false,true,,Bear Paw,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Bim's Whim,most_difficult,false,false,closed
@@ -62,7 +62,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,event,false,true,,Lower Monday Mourning,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Lower Moonstruck,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,Lower Risky Business,more_difficult,false,false,grooming
-,WHITE CAP,trail,open,true,false,,Lower Tempest,more_difficult,false,false,open
+,WHITE CAP,trail,open,false,false,,Lower Tempest,more_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Lower Upper Cut,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,,Mixing Bowl,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,,North Woods,extremely_difficult,false,false,closed
@@ -101,7 +101,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Southway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,false,,Spectator,easier,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Starburst,more_difficult,false,false,closed
-,WHITE CAP,trail,open,true,false,,Starlight,more_difficult,false,false,open
+,WHITE CAP,trail,open,false,false,,Starlight,more_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Starstruck,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,,Starwood,most_difficult,false,false,closed
 ,OZ,trail,open,false,true,,State Fair,easier,false,false,grooming
@@ -126,10 +126,10 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,true,,Upper Moonstruck,more_difficult,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
-,WHITE CAP,trail,open,true,false,,Upper Tempest,most_difficult,false,false,open
+,WHITE CAP,trail,open,false,false,,Upper Tempest,most_difficult,false,false,open
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Vortex,extremely_difficult,false,false,closed
-,WHITE CAP,trail,open,true,false,,White Heat,extremely_difficult,false,false,open
+,WHITE CAP,trail,open,false,false,,White Heat,extremely_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Wildfire,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Witch Way,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Wizard's Gulch,extremely_difficult,false,false,closed

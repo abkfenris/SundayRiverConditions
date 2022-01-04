@@ -129,7 +129,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,true,false,,Upper Tempest,most_difficult,false,false,open
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Vortex,extremely_difficult,false,false,closed
-,WHITE CAP,trail,scheduled,false,false,,White Heat,extremely_difficult,false,false,closed
+,WHITE CAP,trail,open,false,false,,White Heat,extremely_difficult,false,false,open
 ,WHITE CAP,trail,closed,false,false,,Wildfire,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Witch Way,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Wizard's Gulch,extremely_difficult,false,false,closed

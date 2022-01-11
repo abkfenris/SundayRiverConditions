@@ -97,7 +97,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,,Sluice,more_difficult,false,false,closed
 ,WHITE CAP,trail,open,false,true,,Snowbound,most_difficult,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,false,,South Paw,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,open,false,true,,South Paw,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Southway,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,false,false,,Spectator,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,,Starburst,more_difficult,false,false,closed
@@ -130,7 +130,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
 ,AURORA PEAK,trail,open,false,false,,Vortex,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,false,,White Heat,extremely_difficult,false,false,open
-,WHITE CAP,trail,open,false,false,,Wildfire,more_difficult,false,false,open
+,WHITE CAP,trail,open,false,true,,Wildfire,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Witch Way,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Wizard's Gulch,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,,Yetiville,most_difficult,false,false,closed

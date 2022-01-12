@@ -1,6 +1,6 @@
 resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trail,with_snowmaking,global_status
 ,NORTH PEAK,trail,open,false,true,,3D,more_difficult,false,false,grooming
-,NORTH PEAK,trail,closed,false,false,,Absolutely,more_difficult,false,false,closed
+,NORTH PEAK,trail,open,false,false,,Absolutely,more_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Agony,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,false,,Airglow,most_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Aludra,easier,false,false,grooming
@@ -12,7 +12,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,closed,false,false,,Black Hole,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,,Blind Ambition,most_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,false,,Borealis,easier,false,false,open
-,NORTH PEAK,trail,closed,false,false,,Broadway Connection,easier,false,false,closed
+,NORTH PEAK,trail,open,false,false,,Broadway Connection,easier,false,false,open
 ,JORDAN BOWL,trail,closed,false,false,,Caramba,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,,Cascades,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,,Celestial,extremely_difficult,false,false,closed
@@ -48,7 +48,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,LOCKE MOUNTAIN,trail,open,false,true,,Jim's Whim,most_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Jungle Road,more_difficult,false,false,grooming
 ,OZ,trail,open,false,true,,Kansas,easier,false,false,grooming
-,NORTH PEAK,trail,closed,false,false,,Last Mile,more_difficult,false,false,closed
+,NORTH PEAK,trail,open,false,false,,Last Mile,more_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Last Tango,most_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,,Lazy River,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Lights Out,easier,false,false,grooming

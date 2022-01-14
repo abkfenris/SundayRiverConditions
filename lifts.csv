@@ -1,6 +1,6 @@
 resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_status
 ,LOCKE MOUNTAIN,lift,closed,,,Alera Group Competition Lift #5,Lift,,2.0,closed
-,AURORA PEAK,lift,closed,,,Aurora Peak Quad #12,Chairlift,,4.0,closed
+,AURORA PEAK,lift,scheduled,,,Aurora Peak Quad #12,Chairlift,,4.0,scheduled
 ,BARKER MOUNTAIN,lift,open,,,Barker Mountain Express #1,Chairlift,,4.0,open
 ,SOUTH RIDGE,lift,open,,,Chondola #7,Gondola,,,open
 ,JORDAN BOWL,lift,open,,,Jordan Bowl Express #14,Chairlift,,4.0,open

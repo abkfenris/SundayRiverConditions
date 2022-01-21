@@ -32,7 +32,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,JORDAN BOWL,trail,open,false,true,,Excalibur,more_difficult,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,Exit Left,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Exit Right,easier,false,false,grooming
-,SOUTH RIDGE,trail,open,false,true,,Express Lane,easier,false,false,grooming
+,SOUTH RIDGE,trail,closed,false,true,,Express Lane,easier,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Firestar,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Flyin' Monkey,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,false,,Gnarnia,extremely_difficult,false,false,open
@@ -84,7 +84,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Ridge Run,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Right Stuff,most_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Road Runner,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,false,,Rocking Chair,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,event,false,false,,Rocking Chair,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,,Rogue Angel,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,,Roundabout,easier,false,false,grooming
 ,OZ,trail,open,false,false,,Ruby Palace,extremely_difficult,false,false,open

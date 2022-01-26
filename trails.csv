@@ -1,5 +1,5 @@
 resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trail,with_snowmaking,global_status
-,NORTH PEAK,trail,open,false,false,,3D,more_difficult,false,false,open
+,NORTH PEAK,trail,closed,false,false,,3D,more_difficult,false,false,closed
 ,NORTH PEAK,trail,open,false,false,,Absolutely,more_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,closed,false,false,,Agony,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,true,,Airglow,most_difficult,false,false,grooming

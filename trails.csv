@@ -92,7 +92,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,Second Mile,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,Second Thoughts,easier,false,false,open
 ,NORTH PEAK,trail,open,false,true,,Sensation,easier,false,false,grooming
-,WHITE CAP,trail,open,false,false,,Shock Wave,extremely_difficult,false,false,open
+,WHITE CAP,trail,closed,false,false,,Shock Wave,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Sirius,easier,false,false,grooming
 ,NORTH PEAK,trail,,,,,Ski Back,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,false,,Sluice,more_difficult,false,false,open

@@ -63,7 +63,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,true,,Lower Moonstruck,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,,Lower Risky Business,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Lower Tempest,more_difficult,false,false,grooming
-,LOCKE MOUNTAIN,trail,open,false,false,,Lower Upper Cut,more_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,open,false,true,,Lower Upper Cut,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Mixing Bowl,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,North Woods,extremely_difficult,false,false,open
 ,NORTH PEAK,trail,closed,false,false,,Northern Exposure,extremely_difficult,false,false,closed

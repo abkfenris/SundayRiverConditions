@@ -9,7 +9,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,false,,Backside,easier,false,false,open
 ,WHITE CAP,trail,open,false,true,,Bear Paw,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,false,,Bim's Whim,most_difficult,false,false,open
-,AURORA PEAK,trail,open,false,false,,Black Hole,extremely_difficult,false,false,open
+,AURORA PEAK,trail,closed,false,false,,Black Hole,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,false,,Blind Ambition,most_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Borealis,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,Broadway Connection,easier,false,false,open
@@ -18,7 +18,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,AURORA PEAK,trail,open,false,false,,Celestial,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,false,,Chutzpah,extremely_difficult,false,false,open
 ,OZ,trail,open,false,false,,Cowardly Lion,easier,false,false,open
-,LOCKE MOUNTAIN,trail,open,false,false,,Crossbow,most_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,,Crossbow,most_difficult,false,false,closed
 ,WHITE CAP,trail,open,false,true,,Cutoff,more_difficult,false,false,grooming
 ,OZ,trail,open,false,true,,Cyclone,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Double Dipper,easier,false,false,grooming
@@ -71,7 +71,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Northway,easier,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Obsession,most_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Outta Here,more_difficult,false,false,grooming
-,LOCKE MOUNTAIN,trail,open,false,false,,Over Easy,easier,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,,Over Easy,easier,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Overdraft,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,,Paradigm,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,Peak Easy,more_difficult,false,false,grooming

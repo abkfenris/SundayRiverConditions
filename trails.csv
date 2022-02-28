@@ -8,7 +8,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,open,false,true,,Assumption,most_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,Backside,easier,false,false,open
 ,WHITE CAP,trail,open,false,true,,Bear Paw,easier,false,false,grooming
-,LOCKE MOUNTAIN,trail,open,false,false,,Bim's Whim,most_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,,Bim's Whim,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Black Hole,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,false,,Blind Ambition,most_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Borealis,easier,false,false,grooming
@@ -43,7 +43,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Hard Ball,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,open,false,true,,Heat's Off,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,,Heat's On,more_difficult,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,false,,Hollywood,extremely_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,open,false,false,,Hollywood,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,true,,Jibe,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Jim's Whim,most_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Jungle Road,more_difficult,false,false,grooming

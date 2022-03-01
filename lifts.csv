@@ -12,7 +12,7 @@ resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_s
 ,NORTH PEAK,lift,closed,,,North Peak Express #6,Chairlift,,4.0,closed
 ,OZ,lift,closed,,,OZ Quad #15,Chairlift,,4.0,closed
 ,AURORA PEAK,lift,closed,,,Quantum Leap Triple #3,Chairlift,,3.0,closed
-,SOUTH RIDGE,lift,scheduled,,,South Ridge Express #2,Chairlift,,4.0,scheduled
+,SOUTH RIDGE,lift,on_hold,,,South Ridge Express #2,Chairlift,,4.0,on_hold
 ,SPRUCE PEAK,lift,scheduled,,,Spruce Peak Triple #8,Chairlift,,3.0,scheduled
 ,SOUTH RIDGE,lift,scheduled,,,Upper Sundance Surface Lift #18,Lift,,2.0,scheduled
 ,WHITE CAP,lift,scheduled,,,White Cap Quad #9,Chairlift,,4.0,scheduled

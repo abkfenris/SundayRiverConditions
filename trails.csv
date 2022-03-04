@@ -1,5 +1,5 @@
 resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trail,with_snowmaking,global_status
-,NORTH PEAK,trail,open,false,true,,3D,more_difficult,false,false,grooming
+,NORTH PEAK,trail,event,false,true,,3D,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,false,,Absolutely,more_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,open,false,false,,Agony,extremely_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,true,,Airglow,most_difficult,false,false,grooming
@@ -16,7 +16,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,JORDAN BOWL,trail,open,false,false,,Caramba,extremely_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,false,,Cascades,more_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,false,,Celestial,extremely_difficult,false,false,open
-,WHITE CAP,trail,closed,false,false,,Chutzpah,extremely_difficult,false,false,closed
+,WHITE CAP,trail,open,false,false,,Chutzpah,extremely_difficult,false,false,open
 ,OZ,trail,closed,false,false,,Cowardly Lion,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Crossbow,most_difficult,false,false,closed
 ,WHITE CAP,trail,open,false,true,,Cutoff,more_difficult,false,false,grooming

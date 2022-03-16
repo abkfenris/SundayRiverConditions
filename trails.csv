@@ -15,7 +15,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,false,,Broadway Connection,easier,false,false,open
 ,JORDAN BOWL,trail,open,false,false,,Caramba,extremely_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,true,,Cascades,more_difficult,false,false,grooming
-,AURORA PEAK,trail,closed,false,false,,Celestial,extremely_difficult,false,false,closed
+,AURORA PEAK,trail,open,false,false,,Celestial,extremely_difficult,false,false,open
 ,WHITE CAP,trail,open,false,false,,Chutzpah,extremely_difficult,false,false,open
 ,OZ,trail,closed,false,false,,Cowardly Lion,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Crossbow,most_difficult,false,false,closed
@@ -26,7 +26,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,SOUTH RIDGE,trail,open,false,true,,Easy Street,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,,Ecstasy,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Emerald City,extremely_difficult,false,false,closed
-,NORTH PEAK,trail,closed,false,false,,Enchanted Forest,more_difficult,false,false,closed
+,NORTH PEAK,trail,open,false,false,,Enchanted Forest,more_difficult,false,false,open
 ,NORTH PEAK,trail,open,false,true,,Escapade,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,,Eureka,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,,Excalibur,more_difficult,false,false,grooming

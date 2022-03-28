@@ -1,19 +1,19 @@
 resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_status
 ,LOCKE MOUNTAIN,lift,closed,,,Alera Group Competition Lift #5,Lift,,2.0,closed
-,AURORA PEAK,lift,scheduled,,,Aurora Peak Quad #12,Chairlift,,4.0,scheduled
-,BARKER MOUNTAIN,lift,scheduled,,,Barker Mountain Express #1,Chairlift,,4.0,scheduled
-,SOUTH RIDGE,lift,scheduled,,,Chondola #7,Gondola,,,scheduled
-,JORDAN BOWL,lift,scheduled,,,Jordan Bowl Express #14,Chairlift,,4.0,scheduled
+,AURORA PEAK,lift,open,,,Aurora Peak Quad #12,Chairlift,,4.0,open
+,BARKER MOUNTAIN,lift,open,,,Barker Mountain Express #1,Chairlift,,4.0,open
+,SOUTH RIDGE,lift,open,,,Chondola #7,Gondola,,,open
+,JORDAN BOWL,lift,closed,,,Jordan Bowl Express #14,Chairlift,,4.0,closed
 ,JORDAN BOWL,lift,closed,,,Jordan Mountain Double #13,Chairlift,,2.0,closed
-,WHITE CAP,lift,scheduled,,,Little White Cap Quad #11,Chairlift,,4.0,scheduled
+,WHITE CAP,lift,open,,,Little White Cap Quad #11,Chairlift,,4.0,open
 ,LOCKE MOUNTAIN,lift,closed,,,Locke Mountain Triple #4,Chairlift,,3.0,closed
 ,SOUTH RIDGE,lift,closed,,,Lower Sundance Surface Lift #16,Lift,,2.0,closed
-,SOUTH RIDGE,lift,scheduled,,,Middle Sundance Surface Lift #17,Lift,,2.0,scheduled
-,NORTH PEAK,lift,scheduled,,,North Peak Express #6,Chairlift,,4.0,scheduled
+,SOUTH RIDGE,lift,open,,,Middle Sundance Surface Lift #17,Lift,,2.0,open
+,NORTH PEAK,lift,closed,,,North Peak Express #6,Chairlift,,4.0,closed
 ,OZ,lift,closed,,,OZ Quad #15,Chairlift,,4.0,closed
 ,AURORA PEAK,lift,closed,,,Quantum Leap Triple #3,Chairlift,,3.0,closed
-,SOUTH RIDGE,lift,scheduled,,,South Ridge Express #2,Chairlift,,4.0,scheduled
-,SPRUCE PEAK,lift,scheduled,,,Spruce Peak Triple #8,Chairlift,,3.0,scheduled
-,SOUTH RIDGE,lift,scheduled,,,Upper Sundance Surface Lift #18,Lift,,2.0,scheduled
-,WHITE CAP,lift,scheduled,,,White Cap Quad #9,Chairlift,,4.0,scheduled
-,WHITE CAP,lift,scheduled,,,White Heat Quad #10,Chairlift,,4.0,scheduled
+,SOUTH RIDGE,lift,open,,,South Ridge Express #2,Chairlift,,4.0,open
+,SPRUCE PEAK,lift,open,,,Spruce Peak Triple #8,Chairlift,,3.0,open
+,SOUTH RIDGE,lift,open,,,Upper Sundance Surface Lift #18,Lift,,2.0,open
+,WHITE CAP,lift,open,,,White Cap Quad #9,Chairlift,,4.0,open
+,WHITE CAP,lift,open,,,White Heat Quad #10,Chairlift,,4.0,open

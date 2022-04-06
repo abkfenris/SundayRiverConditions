@@ -112,7 +112,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,NORTH PEAK,trail,open,false,true,,T72 Lower,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,,T72 Upper,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,,Thataway,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,false,,Three Mile Trail,easier,false,false,closed
+,BARKER MOUNTAIN,trail,open,false,false,,Three Mile Trail,easier,false,false,open
 ,LOCKE MOUNTAIN,trail,closed,false,false,,Tightwire,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,,Tin Woodsman,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,false,,Top Gun,extremely_difficult,false,false,open

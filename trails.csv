@@ -126,7 +126,7 @@ resort_id,sector,type,opening,snowmaking,grooming,notes,name,subtype,gladed_trai
 ,WHITE CAP,trail,closed,false,false,,Upper Moonstruck,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,,Upper Risky Business,more_difficult,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,false,true,,Upper Sunday Punch,more_difficult,false,false,grooming
-,WHITE CAP,trail,open,false,true,,Upper Tempest,most_difficult,false,false,grooming
+,WHITE CAP,trail,open,false,false,,Upper Tempest,most_difficult,false,false,open
 ,WHITE CAP,trail,closed,,false,,Village Trail,easier,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,,Vortex,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,open,false,true,,White Heat,extremely_difficult,false,false,grooming

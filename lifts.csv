@@ -1,7 +1,7 @@
 resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_status
 ,LOCKE MOUNTAIN,lift,closed,,,Alera Group Competition Lift #5,Lift,,2.0,closed
 ,AURORA PEAK,lift,closed,,,Aurora Peak Quad #12,Chairlift,,4.0,closed
-,BARKER MOUNTAIN,lift,open,,,Barker Mountain Express #1,Chairlift,,4.0,open
+,BARKER MOUNTAIN,lift,scheduled,,,Barker Mountain Express #1,Chairlift,,4.0,scheduled
 ,SOUTH RIDGE,lift,closed,,,Chondola #7,Gondola,,,closed
 ,JORDAN BOWL,lift,closed,,,Jordan Bowl Express #14,Chairlift,,4.0,closed
 ,JORDAN BOWL,lift,closed,,,Jordan Mountain Double #13,Chairlift,,2.0,closed
@@ -13,7 +13,7 @@ resort_id,sector,type,opening,hours,notes,name,subtype,vertical,persons,global_s
 ,OZ,lift,closed,,,OZ Quad #15,Chairlift,,4.0,closed
 ,AURORA PEAK,lift,closed,,,Quantum Leap Triple #3,Chairlift,,3.0,closed
 ,SOUTH RIDGE,lift,closed,,,South Ridge Express #2,Chairlift,,4.0,closed
-,SPRUCE PEAK,lift,open,,,Spruce Peak Triple #8,Chairlift,,3.0,open
+,SPRUCE PEAK,lift,scheduled,,,Spruce Peak Triple #8,Chairlift,,3.0,scheduled
 ,SOUTH RIDGE,lift,closed,,,Upper Sundance Surface Lift #18,Lift,,2.0,closed
-,WHITE CAP,lift,open,,,White Cap Quad #9,Chairlift,,4.0,open
-,WHITE CAP,lift,open,,,White Heat Quad #10,Chairlift,,4.0,open
+,WHITE CAP,lift,scheduled,,,White Cap Quad #9,Chairlift,,4.0,scheduled
+,WHITE CAP,lift,scheduled,,,White Heat Quad #10,Chairlift,,4.0,scheduled

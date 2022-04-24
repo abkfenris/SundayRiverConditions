@@ -1,7 +1,7 @@
 resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statusDetail,status,subtype,persons,global_status
 ,LOCKE MOUNTAIN,T-Bar,closed,,,,Alera Group Competition Lift #5,09:00,,,CLOSED,Lift,2.0,closed
 ,AURORA PEAK,Quad chair,closed,,,,Aurora Peak Quad #12,08:00,16:00,,CLOSED,Chairlift,4.0,closed
-,BARKER MOUNTAIN,Express quad chair,open,,,,Barker Mountain Express #1,09:00,16:00,,OPEN,Chairlift,4.0,open
+,BARKER MOUNTAIN,Express quad chair,closed,,,,Barker Mountain Express #1,09:00,16:00,,CLOSED,Chairlift,4.0,closed
 ,SOUTH RIDGE,Gondola/Funitel,closed,,,,Chondola #7,08:00,16:00,,CLOSED,Gondola,,closed
 ,JORDAN BOWL,Express quad chair,closed,,,,Jordan Bowl Express #14,08:00,16:00,,CLOSED,Chairlift,4.0,closed
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,08:00,16:00,,CLOSED,Chairlift,2.0,closed

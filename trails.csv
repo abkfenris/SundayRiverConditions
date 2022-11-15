@@ -5,7 +5,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,AURORA PEAK,trail,closed,false,false,Airglow,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,Aludra,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,false,false,American Express,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
-,WHITE CAP,trail,closed,,,Assumption,CLOSED,,,advanced,,,most_difficult,false,false,closed
+,WHITE CAP,trail,closed,false,false,Assumption,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,Backside,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Bear Paw,CLOSED,,,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,Bim's Whim,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
@@ -16,7 +16,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,closed,false,false,Caramba,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,Cascades,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,Celestial,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
-,WHITE CAP,trail,closed,,,Chutzpah,CLOSED,,,expert,,,extremely_difficult,false,false,closed
+,WHITE CAP,trail,closed,false,false,Chutzpah,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,OZ,trail,closed,false,false,Cowardly Lion,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,Crossbow,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Cutoff,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed

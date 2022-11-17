@@ -6,7 +6,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,JORDAN BOWL,Express quad chair,closed,,,,Jordan Bowl Express #14,08:00,16:00,,CLOSED,,Chairlift,4.0,closed
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,08:00,16:00,,CLOSED,,Chairlift,2.0,closed
 ,WHITE CAP,Quad chair,closed,,,,Little White Cap Quad #11,08:00,16:00,,CLOSED,,Chairlift,4.0,closed
-,LOCKE MOUNTAIN,Triple chair,closed,,,,Locke Mountain Triple #4,08:00,16:00,,CLOSED,,Chairlift,3.0,closed
+,LOCKE MOUNTAIN,Triple chair,scheduled,,,,Locke Mountain Triple #4,09:00,15:15,,SCHEDULED,Mid-Station Loading Required,Chairlift,3.0,scheduled
 ,SOUTH RIDGE,Magic carpet,closed,,,,Lower Sundance Surface Lift #16,,,,CLOSED,,Lift,2.0,closed
 ,SOUTH RIDGE,Magic carpet,closed,,,,Middle Sundance Surface Lift #17,,,,CLOSED,,Lift,2.0,closed
 ,NORTH PEAK,Express quad chair,closed,,,,North Peak Express #6,08:00,16:00,,CLOSED,,Chairlift,4.0,closed

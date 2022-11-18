@@ -106,7 +106,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,false,Starwood,CLOSED,NO,,advanced,,,most_difficult,false,false,closed
 ,OZ,trail,closed,false,false,State Fair,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,Sundance,CLOSED,NO,NO,novice,,,easier,false,false,closed
-,LOCKE MOUNTAIN,trail,scheduled,true,false,Sunday Punch,SCHEDULED,NO,YES,intermediate,"Thin cover, expert terrain.",,more_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,true,false,Sunday Punch,OPEN,NO,YES,intermediate,"Thin cover, expert terrain.",,more_difficult,false,false,open
 ,AURORA PEAK,trail,closed,false,false,Super Nova,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,true,false,T2,OPEN,NO,YES,advanced,,,most_difficult,false,false,open
 ,NORTH PEAK,trail,closed,false,false,T72 Lower,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed

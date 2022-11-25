@@ -23,7 +23,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,false,false,Cyclone,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,Double Dipper,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,Dream Maker,CLOSED,NO,NO,novice,,,easier,false,false,closed
-,SOUTH RIDGE,trail,closed,true,false,Easy Street,CLOSED,NO,YES,novice,,,easier,false,false,closed
+,SOUTH RIDGE,trail,open,true,false,Easy Street,OPEN,NO,YES,novice,,,easier,false,false,open
 ,BARKER MOUNTAIN,trail,open,false,true,Ecstasy,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,OZ,trail,closed,false,false,Emerald City,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,Enchanted Forest,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
@@ -38,7 +38,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SPRUCE PEAK,trail,closed,false,false,Gnarnia,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,Goat Path,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,Grand Avenue,CLOSED,NO,NO,novice,,,easier,false,false,closed
-,NORTH PEAK,trail,closed,false,false,Grand Rapids,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
+,NORTH PEAK,trail,scheduled,true,false,Grand Rapids,SCHEDULED,NO,YES,intermediate,Opening mid-morning.,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Green Cheese,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Hard Ball,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Heat's Off,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
@@ -57,7 +57,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,false,false,Lost Princess,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,true,false,Lower Broadway,CLOSED,NO,YES,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,false,false,Lower Chondi Line,CLOSED,NO,NO,novice,,,easier,false,false,closed
-,SPRUCE PEAK,trail,closed,false,false,Lower Downdraft,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,true,false,Lower Downdraft,OPEN,NO,YES,intermediate,,,more_difficult,false,false,open
 ,SOUTH RIDGE,trail,closed,false,false,Lower Lazy River,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,true,false,Lower Monday Mourning,CLOSED,NO,YES,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Lower Moonstruck,CLOSED,NO,NO,novice,,,easier,false,false,closed

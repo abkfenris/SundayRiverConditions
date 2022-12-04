@@ -38,7 +38,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SPRUCE PEAK,trail,closed,false,false,Gnarnia,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,false,false,Goat Path,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,Grand Avenue,CLOSED,NO,NO,novice,,,easier,false,false,closed
-,NORTH PEAK,trail,open,true,false,Grand Rapids,OPEN,NO,YES,intermediate,,,more_difficult,false,false,open
+,NORTH PEAK,trail,closed,true,false,Grand Rapids,CLOSED,NO,YES,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Green Cheese,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,false,false,Heat's Off,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,true,false,Heat's On,CLOSED,NO,YES,intermediate,,,more_difficult,false,false,closed

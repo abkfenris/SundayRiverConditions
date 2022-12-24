@@ -91,7 +91,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,closed,false,false,Roundabout,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,OZ,trail,closed,false,false,Ruby Palace,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Salvation,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,NORTH PEAK,trail,closed,,,Second Mile,CLOSED,,,novice,,,easier,false,false,closed
+,NORTH PEAK,trail,open,,,Second Mile,OPEN,,,novice,,,easier,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,Second Thoughts,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,Sensation,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,WHITE CAP,trail,closed,,,Shock Wave,CLOSED,,,expert,,,extremely_difficult,false,false,closed

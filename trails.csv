@@ -19,7 +19,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,false,false,Cowardly Lion,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Cutback,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Cutoff,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,OZ,trail,open,false,true,Cyclone,OPEN,YES,NO,novice,,,easier,false,false,grooming
+,OZ,trail,scheduled,false,true,Cyclone,SCHEDULED,YES,NO,novice,,,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,false,true,Double Dipper,CLOSED,YES,NO,novice,,,easier,false,false,grooming
 ,MERRILL HILL,trail,closed,,,Double Refraction,CLOSED,,,novice,,,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Downdraft,CLOSED,,,advanced,,,most_difficult,false,false,closed
@@ -33,7 +33,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,open,true,false,Excalibur,OPEN,NO,YES,intermediate,,,more_difficult,false,false,open
 ,SPRUCE PEAK,trail,closed,,,Exit Left,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,open,false,true,Exit Right,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,JORDAN BOWL,trail,open,false,true,Firestar,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
+,JORDAN BOWL,trail,scheduled,false,true,Firestar,SCHEDULED,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,OZ,trail,,,,Flying Monkey,,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Gnarnia,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Goat Path,CLOSED,,,intermediate,,,more_difficult,false,false,closed

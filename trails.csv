@@ -66,7 +66,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,NORTH PEAK,trail,closed,,,Lower North Woods,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,Lower Risky Business,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,,,Lower Upper Cut,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,AURORA PEAK,trail,closed,false,,Lower Vortex,CLOSED,,NO,expert,,,extremely_difficult,false,false,closed
+,AURORA PEAK,trail,open,false,,Lower Vortex,OPEN,,NO,expert,,,extremely_difficult,false,false,open
 ,JORDAN BOWL,trail,closed,,,Lower Wizard's Gulch,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Mixing Bowl,CLOSED,,,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,event,false,true,Monday Mourning,EVENT,YES,NO,advanced,,,most_difficult,false,false,grooming

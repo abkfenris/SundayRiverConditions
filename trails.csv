@@ -77,8 +77,8 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SOUTH RIDGE,trail,open,false,true,Northway,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Obsession,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,Outta Here,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
-,SPRUCE PEAK,trail,closed,,,Overdraft,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,AURORA PEAK,trail,open,false,true,Paradigm,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
+,SPRUCE PEAK,trail,open,,,Overdraft,OPEN,,,intermediate,,,more_difficult,false,false,open
+,AURORA PEAK,trail,closed,false,true,Paradigm,CLOSED,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,Peak Easy,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Polaris,CLOSED,,,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Poma Road,CLOSED,,,advanced,,,most_difficult,false,false,closed
@@ -94,7 +94,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,open,false,true,Roundabout,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,OZ,trail,closed,,,Ruby Palace,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Salvation,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,NORTH PEAK,trail,open,false,true,Second Mile,OPEN,YES,NO,novice,,,easier,false,false,grooming
+,NORTH PEAK,trail,open,true,true,Second Mile,OPEN,YES,YES,novice,,,easier,false,false,grooming
 ,SOUTH RIDGE,trail,closed,,,Second Thoughts,CLOSED,,,novice,,,easier,false,false,closed
 ,AURORA PEAK,trail,open,false,true,Sensation,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,WHITE CAP,trail,closed,,,Shock Wave,CLOSED,,,expert,,,extremely_difficult,false,false,closed

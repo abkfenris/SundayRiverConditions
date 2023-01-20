@@ -120,7 +120,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SPRUCE PEAK,trail,open,false,true,Thataway,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,false,false,Three Mile Trail,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Tightwire,CLOSED,,,advanced,,,most_difficult,false,false,closed
-,OZ,trail,closed,false,false,Tin Woodsman,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
+,OZ,trail,open,false,false,Tin Woodsman,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
 ,BARKER MOUNTAIN,trail,closed,,,Top Gun,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,Tourist Trap,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,Upper Airglow,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming

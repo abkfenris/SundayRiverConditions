@@ -8,7 +8,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,NORTH PEAK,trail,open,false,false,Backside,OPEN,NO,NO,novice,,,easier,false,false,open
 ,UPHILL ROUTES,trail,open,false,true,Barker,open,yes,no,,,,easier,false,false,grooming
 ,WHITE CAP,trail,closed,true,false,Bear Paw,CLOSED,NO,YES,novice,,,easier,false,false,closed
-,LOCKE MOUNTAIN,trail,open,false,false,Bim's Whim,OPEN,NO,NO,advanced,,,most_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,Bim's Whim,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,Black Hole,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,false,Blind Ambition,OPEN,NO,NO,advanced,,,most_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,false,Borealis,OPEN,NO,NO,novice,,,easier,false,false,open
@@ -37,7 +37,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,open,false,false,Firestar,OPEN,NO,NO,intermediate,,,more_difficult,false,false,open
 ,OZ,trail,open,false,false,Flying Monkey,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
 ,SPRUCE PEAK,trail,closed,false,false,Gnarnia,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,open,false,false,Goat Path,OPEN,NO,NO,intermediate,,,more_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,open,false,false,Goat Path,OPEN,NO,NO,intermediate,"From the top of Lift 4 to Jungle Road is closed, remainder is open.",,more_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,false,Grand Avenue,OPEN,NO,NO,novice,,,easier,false,false,open
 ,NORTH PEAK,trail,open,false,true,Grand Rapids,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Green Cheese,OPEN,YES,NO,novice,,,easier,false,false,grooming
@@ -127,7 +127,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,closed,,,Upper Caramba,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,open,,false,Upper Chondi Line,OPEN,NO,,intermediate,,,more_difficult,false,false,open
 ,WHITE CAP,trail,closed,,,Upper Chutzpah,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,open,false,false,Upper Cut,OPEN,NO,NO,advanced,,,most_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,open,false,false,Upper Cut,OPEN,NO,NO,advanced,"Upper most portion off the top of Lift 4 is closed, remainder is open.",,most_difficult,false,false,open
 ,WHITE CAP,trail,closed,,,Upper Hard Ball,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Upper North Woods,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,Upper Risky Business,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming

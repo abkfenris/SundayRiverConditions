@@ -1,6 +1,6 @@
 resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statusDetail,status,comment,subtype,persons,global_status
-,LOCKE MOUNTAIN,T-Bar,scheduled,,,,Alera Group Competition Lift #5,08:00,15:45,,SCHEDULED,"GACP/EVENT
-",Lift,2.0,scheduled
+,LOCKE MOUNTAIN,T-Bar,closed,,,,Alera Group Competition Lift #5,08:00,15:45,,CLOSED,"GACP/EVENT
+",Lift,2.0,closed
 ,AURORA PEAK,Quad chair,scheduled,,,,Aurora Peak Quad #12,08:00,15:45,,SCHEDULED,8AM-3:45PM,Chairlift,4.0,scheduled
 ,BARKER MOUNTAIN,Express quad chair,scheduled,,,,Barker Mountain Express #1,08:00,16:00,,SCHEDULED,8AM-4:00PM,Chairlift,4.0,scheduled
 ,SOUTH RIDGE,Gondola/Funitel,scheduled,,,,Chondola #7,08:00,16:00,,SCHEDULED,8AM-4PM,Gondola,,scheduled

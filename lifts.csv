@@ -1,9 +1,9 @@
 resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statusDetail,status,comment,subtype,persons,global_status
 ,LOCKE MOUNTAIN,T-Bar,scheduled,,,,Alera Group Competition Lift #5,08:00,15:45,,SCHEDULED,"GACP/EVENT
 ",Lift,2.0,scheduled
-,AURORA PEAK,Quad chair,on_hold,,,,Aurora Peak Quad #12,09:00,15:45,weather,ON HOLD,9AM-3:45PM,Chairlift,4.0,on_hold
+,AURORA PEAK,Quad chair,scheduled,,,,Aurora Peak Quad #12,09:00,15:45,weather,SCHEDULED,9AM-3:45PM,Chairlift,4.0,scheduled
 ,BARKER MOUNTAIN,Express quad chair,scheduled,,,,Barker Mountain Express #1,09:00,16:00,,SCHEDULED,9AM-4:00PM,Chairlift,4.0,scheduled
-,SOUTH RIDGE,Gondola/Funitel,on_hold,,,,Chondola #7,09:00,16:00,weather,ON HOLD,9AM-4PM,Gondola,,on_hold
+,SOUTH RIDGE,Gondola/Funitel,scheduled,,,,Chondola #7,09:00,16:00,weather,SCHEDULED,9AM-4PM,Gondola,,scheduled
 ,JORDAN BOWL,Express quad chair,scheduled,,,,Jordan 8 Lift #14,09:00,16:00,,SCHEDULED,9AM - 4:00PM,Lift,2.0,scheduled
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,9AM-3:45PM,Chairlift,2.0,closed
 ,WHITE CAP,Quad chair,scheduled,,,,Little White Cap Quad #11,09:00,16:00,,SCHEDULED,9AM-4:00PM,Chairlift,4.0,scheduled

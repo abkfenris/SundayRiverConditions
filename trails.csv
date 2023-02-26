@@ -85,7 +85,7 @@ Lower Downdraft groomed",,most_difficult,false,false,open
 ,LOCKE MOUNTAIN,trail,event,false,false,Poma Road,EVENT,NO,NO,advanced,,,most_difficult,false,false,closed
 ,OZ,trail,open,false,false,Poppy Fields,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
 ,MERRILL HILL,trail,open,false,true,Prism,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
-,AURORA PEAK,trail,open,false,true,Quantum Leap,OPEN,YES,NO,expert,,,extremely_difficult,false,false,grooming
+,AURORA PEAK,trail,open,false,false,Quantum Leap,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,Ridge Express,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,Ridge Run,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,Right Stuff,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming

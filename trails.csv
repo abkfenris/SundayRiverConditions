@@ -90,7 +90,7 @@ Lower Downdraft groomed",,most_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,true,Ridge Run,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,Right Stuff,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Roadrunner,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,open,false,true,Rocking Chair,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,event,false,true,Rocking Chair,EVENT,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Rogue Angel,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Roundabout,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,OZ,trail,open,false,false,Ruby Palace,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open

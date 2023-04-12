@@ -1,13 +1,13 @@
 resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statusDetail,status,comment,subtype,persons,global_status
-,LOCKE MOUNTAIN,T-Bar,open,,,,Alera Group Competition Lift #5,09:00,15:45,,OPEN,Loading to the public at 9AM,Lift,2.0,open
+,LOCKE MOUNTAIN,T-Bar,closed,,,,Alera Group Competition Lift #5,09:00,15:45,,CLOSED,Loading to the public at 9AM,Lift,2.0,closed
 ,AURORA PEAK,Quad chair,closed,,,,Aurora Peak Quad #12,08:00,15:45,,CLOSED,"
 ",Chairlift,4.0,closed
-,BARKER MOUNTAIN,Express quad chair,on_hold,,,,Barker Mountain Express #1,09:00,16:00,,ON HOLD,"9AM-4PM
-",Chairlift,4.0,on_hold
+,BARKER MOUNTAIN,Express quad chair,scheduled,,,,Barker Mountain Express #1,09:00,16:00,,SCHEDULED,"9AM-4PM
+",Chairlift,4.0,scheduled
 ,SOUTH RIDGE,Gondola/Funitel,closed,,,,Chondola #7,09:00,16:00,,CLOSED,"
 ",Gondola,,closed
-,JORDAN BOWL,Express quad chair,on_hold,,,,Jordan 8 Lift #14,09:00,16:00,,ON HOLD,"9AM-4PM
-",Lift,2.0,on_hold
+,JORDAN BOWL,Express quad chair,scheduled,,,,Jordan 8 Lift #14,09:00,16:00,,SCHEDULED,"9AM-4PM
+",Lift,2.0,scheduled
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,,Chairlift,2.0,closed
 ,WHITE CAP,Quad chair,closed,,,,Little White Cap Quad #11,08:00,16:00,,CLOSED,,Chairlift,4.0,closed
 ,LOCKE MOUNTAIN,Triple chair,closed,,,,Locke Mountain Triple #4,09:00,15:45,,CLOSED,,Chairlift,3.0,closed
@@ -19,7 +19,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,OZ,Quad chair,closed,,,,OZ Quad #15,10:00,14:00,,CLOSED,,Chairlift,4.0,closed
 ,AURORA PEAK,Triple chair,closed,,,,Quantum Leap Triple #3,09:00,15:45,,CLOSED,,Chairlift,3.0,closed
 ,SOUTH RIDGE,Express quad chair,closed,,,,South Ridge Express #2,09:00,16:00,,CLOSED,,Chairlift,4.0,closed
-,SPRUCE PEAK,Triple chair,on_hold,,,,Spruce Peak Triple #8,09:00,15:45,,ON HOLD,9AM-3:45PM,Chairlift,3.0,on_hold
+,SPRUCE PEAK,Triple chair,scheduled,,,,Spruce Peak Triple #8,09:00,15:45,,SCHEDULED,9AM-3:45PM,Chairlift,3.0,scheduled
 ,SOUTH RIDGE,Magic carpet,closed,,,,Upper Sundance Surface Lift #18,08:00,16:00,,CLOSED,,Lift,2.0,closed
 ,WHITE CAP,Quad chair,closed,,,,White Cap Quad #9,09:00,16:00,,CLOSED,"
 ",Chairlift,4.0,closed

@@ -43,14 +43,14 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Green Cheese,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Heat's Off,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Heat's On,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,closed,,,Hollywood,CLOSED,,,expert,,,extremely_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,open,,,Hollywood,OPEN,,,expert,Lowest Section only,,extremely_difficult,false,false,open
 ,WHITE CAP,trail,closed,,,Jibe,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,Jim's Whim,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,UPHILL ROUTES,trail,open,,,Jordan,open,,,,,,easier,false,false,open
 ,BARKER MOUNTAIN,trail,open,false,true,Jungle Road,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,scheduled,false,true,Kansas,SCHEDULED,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Last Mile,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,BARKER MOUNTAIN,trail,open,false,false,Last Tango,OPEN,NO,NO,advanced,,,most_difficult,false,false,open
+,BARKER MOUNTAIN,trail,closed,false,false,Last Tango,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,Lazy River,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,true,Lights Out,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,LOCKE MOUNTAIN,trail,open,,,Locke Line,OPEN,,,advanced,,,most_difficult,false,false,open

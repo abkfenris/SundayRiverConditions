@@ -4,8 +4,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ",Chairlift,4.0,closed
 ,BARKER MOUNTAIN,Express quad chair,closed,,,,Barker Mountain Express #1,08:00,16:00,,CLOSED,"
 ",Chairlift,4.0,closed
-,SOUTH RIDGE,Gondola/Funitel,open,,,,Chondola #7,08:00,16:00,,OPEN,"9AM-4PM
-",Gondola,,open
+,SOUTH RIDGE,Gondola/Funitel,closed,,,,Chondola #7,08:00,16:00,,CLOSED,,Gondola,,closed
 ,JORDAN BOWL,Express quad chair,closed,,,,Jordan 8 Lift #14,09:00,16:00,,CLOSED,"9AM-4PM
 ",Lift,2.0,closed
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,,Chairlift,2.0,closed
@@ -19,7 +18,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,OZ,Quad chair,closed,,,,OZ Quad #15,10:00,14:00,,CLOSED,,Chairlift,4.0,closed
 ,AURORA PEAK,Triple chair,closed,,,,Quantum Leap Triple #3,09:00,15:45,,CLOSED,,Chairlift,3.0,closed
 ,SOUTH RIDGE,Express quad chair,closed,,,,South Ridge Express #2,09:00,16:00,,CLOSED,,Chairlift,4.0,closed
-,SPRUCE PEAK,Triple chair,open,,,,Spruce Peak Triple #8,08:00,15:45,,OPEN,9AM-3:45PM,Chairlift,3.0,open
+,SPRUCE PEAK,Triple chair,closed,,,,Spruce Peak Triple #8,08:00,15:45,,CLOSED,,Chairlift,3.0,closed
 ,SOUTH RIDGE,Magic carpet,closed,,,,Upper Sundance Surface Lift #18,08:00,16:00,,CLOSED,,Lift,2.0,closed
 ,WHITE CAP,Quad chair,closed,,,,White Cap Quad #9,08:00,16:00,,CLOSED,"
 ",Chairlift,4.0,closed

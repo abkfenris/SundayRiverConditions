@@ -4,7 +4,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ",Chairlift,4.0,closed
 ,BARKER MOUNTAIN,Express quad chair,closed,,,,Barker Mountain Express #1,08:00,16:00,,CLOSED,"
 ",Chairlift,4.0,closed
-,SOUTH RIDGE,Gondola/Funitel,scheduled,,,,Chondola #7,10:00,16:00,,SCHEDULED,Will re-open Thursday at 10 AM,Gondola,,scheduled
+,SOUTH RIDGE,Gondola/Funitel,scheduled,,,,Chondola #7,10:00,16:00,,SCHEDULED,,Gondola,,scheduled
 ,JORDAN BOWL,Express quad chair,closed,,,,Jordan 8 Lift #14,08:00,16:00,,CLOSED,"
 ",Lift,2.0,closed
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,,Chairlift,2.0,closed

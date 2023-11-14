@@ -23,7 +23,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Cutback,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Cutoff,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,OZ,trail,closed,false,,Cyclone,CLOSED,,NO,novice,,,easier,false,false,closed
-,JORDAN BOWL,trail,,,,Double Blind,,,,expert,,,extremely_difficult,false,false,closed
+,JORDAN BOWL,trail,closed,,,Double Blind,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Double Dipper,CLOSED,,,novice,,,easier,false,false,closed
 ,MERRILL HILL,trail,closed,,,Double Refraction,CLOSED,,,novice,,,easier,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Downdraft,CLOSED,,,advanced,,,most_difficult,false,false,closed
@@ -41,7 +41,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,,,Flying Monkey,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Gnarnia,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Goat Path,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,JORDAN BOWL,trail,,,,Grand Avenue,,,,novice,,,easier,false,false,closed
+,JORDAN BOWL,trail,closed,,,Grand Avenue,CLOSED,,,novice,,,easier,false,false,closed
 ,NORTH PEAK,trail,closed,,,Grand Rapids,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Green Cheese,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Heat's Off,CLOSED,,,intermediate,,,more_difficult,false,false,closed
@@ -93,7 +93,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,BARKER MOUNTAIN,trail,closed,,,Right Stuff,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,Roadrunner,CLOSED,NO,,novice,,,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Rocking Chair,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,JORDAN BOWL,trail,scheduled,false,false,Rogue Angel,SCHEDULED,NO,NO,intermediate,No Beginner  Terrain,,more_difficult,false,false,closed
+,JORDAN BOWL,trail,open,false,false,Rogue Angel,OPEN,NO,NO,intermediate,Expert Terrain Only,,more_difficult,false,false,open
 ,JORDAN BOWL,trail,closed,,,Roundabout,CLOSED,,,novice,,,easier,false,false,closed
 ,OZ,trail,closed,,,Ruby Palace,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Salvation,CLOSED,,,intermediate,,,more_difficult,false,false,closed

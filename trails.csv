@@ -11,8 +11,8 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,LOCKE MOUNTAIN,trail,closed,,,Bim's Whim,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,,,Black Hole,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Blind Ambition,CLOSED,,,advanced,,,most_difficult,false,false,closed
-,JORDAN BOWL,trail,open,false,false,Boots Off,OPEN,NO,NO,novice,No Beginner Terrain,,easier,false,false,open
-,JORDAN BOWL,trail,open,false,false,Boots On,OPEN,NO,NO,novice,No Beginner Terrain,,easier,false,false,open
+,JORDAN BOWL,trail,open,false,true,Boots Off,OPEN,YES,NO,novice,No Beginner Terrain,,easier,false,false,grooming
+,JORDAN BOWL,trail,open,false,true,Boots On,OPEN,YES,NO,novice,No Beginner Terrain,,easier,false,false,grooming
 ,AURORA PEAK,trail,closed,,,Borealis,CLOSED,,,novice,,,easier,false,false,closed
 ,MERRILL HILL,trail,closed,,,Brilliant,CLOSED,,,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Broadway,CLOSED,,,novice,,,easier,false,false,closed
@@ -41,7 +41,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,,,Flying Monkey,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Gnarnia,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Goat Path,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,,,Grand Avenue,CLOSED,,,novice,,,easier,false,false,closed
+,JORDAN BOWL,trail,open,false,true,Grand Avenue,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Grand Rapids,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Green Cheese,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Heat's Off,CLOSED,,,intermediate,,,more_difficult,false,false,closed

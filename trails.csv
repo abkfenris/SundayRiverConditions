@@ -94,7 +94,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,false,Roadrunner,CLOSED,NO,,novice,,,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Rocking Chair,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,scheduled,false,false,Rogue Angel,SCHEDULED,NO,NO,intermediate,Expert Terrain Only,,more_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,,,Roundabout,CLOSED,,,novice,,,easier,false,false,closed
+,JORDAN BOWL,trail,open,false,false,Roundabout,OPEN,NO,NO,novice,,,easier,false,false,open
 ,OZ,trail,closed,,,Ruby Palace,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Salvation,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Second Mile,CLOSED,,,novice,,,easier,false,false,closed

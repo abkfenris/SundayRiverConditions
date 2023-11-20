@@ -12,7 +12,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,AURORA PEAK,trail,closed,,,Black Hole,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Blind Ambition,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Boots Off,OPEN,YES,NO,novice,No Beginner Terrain,,easier,false,false,grooming
-,JORDAN BOWL,trail,open,false,true,Boots On,OPEN,YES,NO,novice,No Beginner Terrain,,easier,false,false,grooming
+,JORDAN BOWL,trail,open,false,false,Boots On,OPEN,NO,NO,novice,No Beginner Terrain,,easier,false,false,open
 ,AURORA PEAK,trail,closed,,,Borealis,CLOSED,,,novice,,,easier,false,false,closed
 ,MERRILL HILL,trail,closed,,,Brilliant,CLOSED,,,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Broadway,CLOSED,,,novice,,,easier,false,false,closed
@@ -94,7 +94,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,false,Roadrunner,CLOSED,NO,,novice,,,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Rocking Chair,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,false,false,Rogue Angel,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
-,JORDAN BOWL,trail,open,false,false,Roundabout,OPEN,NO,NO,novice,,,easier,false,false,open
+,JORDAN BOWL,trail,closed,false,false,Roundabout,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,OZ,trail,closed,,,Ruby Palace,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Salvation,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Second Mile,CLOSED,,,novice,,,easier,false,false,closed

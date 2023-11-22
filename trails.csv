@@ -34,7 +34,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,NORTH PEAK,trail,closed,,,Enchanted Forest,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Escapade,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,OZ,trail,closed,,,Eureka,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,JORDAN BOWL,trail,scheduled,true,false,Excalibur,SCHEDULED,NO,YES,intermediate,Expert Terrain Only,,more_difficult,false,false,closed
+,JORDAN BOWL,trail,open,true,false,Excalibur,OPEN,NO,YES,intermediate,Expert Terrain Only,,more_difficult,false,false,open
 ,SPRUCE PEAK,trail,closed,,,Exit Left,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Exit Right,CLOSED,,,novice,,,easier,false,false,closed
 ,JORDAN BOWL,trail,closed,true,,Firestar,CLOSED,,YES,intermediate,,,more_difficult,false,false,closed

@@ -116,7 +116,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SOUTH RIDGE,trail,closed,,,Sundance,CLOSED,,,novice,,,easier,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Sunday Punch,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,,,Super Nova,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,,,,T2,,,,advanced,,,most_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,closed,,,T2,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,T72,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Tempest (Lower),CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Tempest (Upper),CLOSED,,,advanced,,,most_difficult,false,false,closed
@@ -134,7 +134,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Upper Hard Ball,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Upper North Woods,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Upper Risky Business,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,,false,,Upper Sunday Punch,,,NO,intermediate,,,more_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,closed,false,,Upper Sunday Punch,CLOSED,,NO,intermediate,,,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,Upper Vortex,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Upper Wizard's Gulch,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,false,Village Trail,CLOSED,NO,,novice,,,easier,false,false,closed

@@ -48,7 +48,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Heat's On,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Hollywood,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Jibe,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,false,,Jim's Whim,CLOSED,,NO,advanced,,,most_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,false,,Jim's Whim,OPEN,,NO,advanced,,,most_difficult,false,false,open
 ,UPHILL ROUTES,trail,open,false,true,Jordan,open,yes,no,,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,,,Jungle Road,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Kansas,OPEN,YES,NO,novice,,,easier,false,false,grooming
@@ -56,10 +56,10 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,BARKER MOUNTAIN,trail,closed,false,false,Last Tango,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Lazy River,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,SPRUCE PEAK,trail,open,false,true,Lights Out,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,LOCKE MOUNTAIN,trail,closed,,,Locke Line,CLOSED,,,advanced,,,most_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,,,Locke Line,OPEN,,,advanced,,,most_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,Lollapalooza,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,OZ,trail,closed,,,Lost Princess,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,AURORA PEAK,trail,closed,,,Lower Airglow,CLOSED,,,advanced,,,most_difficult,false,false,closed
+,AURORA PEAK,trail,open,,,Lower Airglow,OPEN,,,advanced,,,most_difficult,false,false,open
 ,JORDAN BOWL,trail,closed,,false,Lower Caramba,CLOSED,NO,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Lower Chondi Line,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Lower Chutzpah,CLOSED,,,expert,,,extremely_difficult,false,false,closed
@@ -126,7 +126,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,,,Tin Woodsman,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Top Gun,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,open,false,true,Tourist Trap,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
-,AURORA PEAK,trail,closed,,,Upper Airglow,CLOSED,,,advanced,,,most_difficult,false,false,closed
+,AURORA PEAK,trail,open,,,Upper Airglow,OPEN,,,advanced,,,most_difficult,false,false,open
 ,JORDAN BOWL,trail,closed,,,Upper Caramba,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Upper Chondi Line,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Upper Chutzpah,CLOSED,,,expert,,,extremely_difficult,false,false,closed

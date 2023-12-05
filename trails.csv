@@ -29,7 +29,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SPRUCE PEAK,trail,closed,true,,Downdraft,CLOSED,,YES,advanced,,,most_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Dream Maker,CLOSED,,,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Easy Street,CLOSED,,,novice,,,easier,false,false,closed
-,BARKER MOUNTAIN,trail,closed,,,Ecstasy,CLOSED,,,intermediate,,,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,closed,true,,Ecstasy,CLOSED,,YES,intermediate,,,more_difficult,false,false,closed
 ,OZ,trail,closed,,,Emerald City,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Enchanted Forest,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Escapade,CLOSED,,,intermediate,,,more_difficult,false,false,closed
@@ -50,7 +50,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Jibe,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,,Jim's Whim,OPEN,,NO,advanced,,,most_difficult,false,false,open
 ,UPHILL ROUTES,trail,open,false,true,Jordan,open,yes,no,,,,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,,,Jungle Road,CLOSED,,,intermediate,,,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,closed,true,,Jungle Road,CLOSED,,YES,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Kansas,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Last Mile,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,false,false,Last Tango,CLOSED,NO,NO,advanced,,,most_difficult,false,false,closed

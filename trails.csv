@@ -13,7 +13,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,closed,,,Blind Ambition,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Boots Off,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Boots On,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,AURORA PEAK,trail,open,false,,Borealis,OPEN,,NO,novice,,,easier,false,false,open
+,AURORA PEAK,trail,open,false,false,Borealis,OPEN,NO,NO,novice,,,easier,false,false,open
 ,MERRILL HILL,trail,closed,,,Brilliant,CLOSED,,,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,Broadway,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Broadway Connection,CLOSED,,,novice,,,easier,false,false,closed
@@ -72,9 +72,9 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,AURORA PEAK,trail,closed,false,,Lower Vortex,CLOSED,,NO,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Lower Wizard's Gulch,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,,,Mixing Bowl,OPEN,,,novice,,,easier,false,false,open
-,LOCKE MOUNTAIN,trail,open,false,true,Monday Mourning,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,event,false,true,Monday Mourning,EVENT,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,,,Moonstruck,CLOSED,,,novice,,,easier,false,false,closed
-,UPHILL ROUTES,trail,closed,,,North Peak,closed,,,,,,easier,false,false,closed
+,UPHILL ROUTES,trail,open,,true,North Peak,open,yes,,,Access to top of South Ridge Express only,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Northern Exposure,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,true,Northern Lights,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,closed,,,Northway,CLOSED,,,novice,,,easier,false,false,closed

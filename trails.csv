@@ -65,7 +65,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Lower Chutzpah,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,open,false,true,Lower Downdraft,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,,,Lower Hard Ball,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,SOUTH RIDGE,trail,open,true,true,Lower Lazy River,OPEN,YES,YES,novice,,,easier,false,false,grooming
+,SOUTH RIDGE,trail,open,true,true,Lower Lazy River,OPEN,YES,YES,novice,No Access to Barker Basin,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Lower North Woods,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,true,,Lower Risky Business,CLOSED,,YES,intermediate,,,more_difficult,false,false,closed
 ,BARKER MOUNTAIN,trail,closed,,,Lower Upper Cut,CLOSED,,,intermediate,,,more_difficult,false,false,closed
@@ -74,7 +74,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SOUTH RIDGE,trail,open,,,Mixing Bowl,OPEN,,,novice,,,easier,false,false,open
 ,LOCKE MOUNTAIN,trail,event,true,true,Monday Mourning,EVENT,YES,YES,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,,,Moonstruck,CLOSED,,,novice,,,easier,false,false,closed
-,UPHILL ROUTES,trail,open,,true,North Peak,open,yes,,,Access to top of South Ridge Express only,,easier,false,false,grooming
+,UPHILL ROUTES,trail,open,,true,North Peak,open,yes,,,Access to top of South Ridge Express only via Broadway/Lazy River,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,,,Northern Exposure,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,true,Northern Lights,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,SOUTH RIDGE,trail,closed,,,Northway,CLOSED,,,novice,,,easier,false,false,closed

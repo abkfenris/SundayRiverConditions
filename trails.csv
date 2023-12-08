@@ -61,7 +61,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,,,Lost Princess,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,AURORA PEAK,trail,open,false,false,Lower Airglow,OPEN,NO,NO,advanced,,,most_difficult,false,false,open
 ,JORDAN BOWL,trail,closed,,false,Lower Caramba,CLOSED,NO,,expert,,,extremely_difficult,false,false,closed
-,SOUTH RIDGE,trail,closed,,,Lower Chondi Line,CLOSED,,,novice,,,easier,false,false,closed
+,SOUTH RIDGE,trail,open,,false,Lower Chondi Line,OPEN,NO,,novice,,,easier,false,false,open
 ,WHITE CAP,trail,closed,,,Lower Chutzpah,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,NORTH PEAK,trail,open,false,true,Lower Downdraft,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,,,Lower Hard Ball,CLOSED,,,expert,,,extremely_difficult,false,false,closed
@@ -113,7 +113,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Starstruck,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Starwood,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,OZ,trail,closed,,,State Fair,CLOSED,,,novice,,,easier,false,false,closed
-,SOUTH RIDGE,trail,closed,,,Sundance,CLOSED,,,novice,,,easier,false,false,closed
+,SOUTH RIDGE,trail,open,,,Sundance,OPEN,,,novice,,,easier,false,false,open
 ,BARKER MOUNTAIN,trail,closed,true,,Sunday Punch,CLOSED,,YES,intermediate,,,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,,,Super Nova,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,event,false,true,T2,EVENT,YES,NO,advanced,,,most_difficult,false,false,grooming

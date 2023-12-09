@@ -26,7 +26,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,closed,,,Double Blind,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Double Dipper,CLOSED,,,novice,,,easier,false,false,closed
 ,MERRILL HILL,trail,closed,,,Double Refraction,CLOSED,,,novice,,,easier,false,false,closed
-,SPRUCE PEAK,trail,closed,true,,Downdraft,CLOSED,,YES,advanced,,,most_difficult,false,false,closed
+,SPRUCE PEAK,trail,open,true,,Downdraft,OPEN,,YES,advanced,,,most_difficult,false,false,open
 ,NORTH PEAK,trail,closed,,,Dream Maker,CLOSED,,,novice,,,easier,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,Easy Street,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,true,,Ecstasy,CLOSED,,YES,intermediate,,,more_difficult,false,false,closed

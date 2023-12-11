@@ -3,7 +3,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,AURORA PEAK,Quad chair,scheduled,,,,Aurora Peak Quad #12,09:00,15:00,,SCHEDULED,9AM-3:00PM,Chairlift,4.0,scheduled
 ,BARKER MOUNTAIN,Six-person chair,scheduled,,,,Barker 6 #1,09:00,15:30,,SCHEDULED,9AM-3:30PM,Lift,2.0,scheduled
 ,SOUTH RIDGE,Gondola/Funitel,scheduled,,,,Chondola #7,09:00,15:30,,SCHEDULED,"9AM-3:30PM
-Chairs only today-cabins offline",Gondola,,scheduled
+Chairs Only",Gondola,,scheduled
 ,JORDAN BOWL,Express quad chair,scheduled,,,,Jordan 8 Lift #14,09:00,15:30,,SCHEDULED,"9AM - 3:30PM
 ",Lift,2.0,scheduled
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,,Chairlift,2.0,closed

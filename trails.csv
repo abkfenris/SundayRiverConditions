@@ -113,7 +113,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Starstruck,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Starwood,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,OZ,trail,closed,,,State Fair,CLOSED,,,novice,,,easier,false,false,closed
-,SOUTH RIDGE,trail,open,false,true,Sundance,OPEN,YES,NO,novice,,,easier,false,false,grooming
+,SOUTH RIDGE,trail,event,false,true,Sundance,EVENT,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,,true,Sunday Punch,OPEN,YES,,intermediate,,,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,closed,,,Super Nova,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,open,false,true,T2,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming

@@ -79,7 +79,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,AURORA PEAK,trail,closed,false,false,Northern Lights,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Northway,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Obsession,CLOSED,,,advanced,,,most_difficult,false,false,closed
-,SOUTH RIDGE,trail,closed,false,false,Outta Here,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
+,SOUTH RIDGE,trail,open,false,false,Outta Here,OPEN,NO,NO,intermediate,,,more_difficult,false,false,open
 ,SPRUCE PEAK,trail,closed,,,Overdraft,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,false,false,Paradigm,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,,Peak Easy,CLOSED,,NO,intermediate,,,more_difficult,false,false,closed
@@ -120,7 +120,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,NORTH PEAK,trail,closed,,,T72,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,,Tempest (Lower),CLOSED,,NO,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,false,,Tempest (Upper),CLOSED,,NO,advanced,,,most_difficult,false,false,closed
-,SPRUCE PEAK,trail,closed,false,false,Thataway,CLOSED,NO,NO,novice,,,easier,false,false,closed
+,SPRUCE PEAK,trail,open,false,true,Thataway,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,,,Three Mile Trail,CLOSED,,,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Tightwire,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,OZ,trail,closed,,,Tin Woodsman,CLOSED,,,expert,,,extremely_difficult,false,false,closed

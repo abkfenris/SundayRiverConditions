@@ -11,7 +11,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,LOCKE MOUNTAIN,trail,closed,,,Bim's Whim,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,,,Black Hole,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Blind Ambition,CLOSED,,,advanced,,,most_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,true,false,Boots Off,CLOSED,NO,YES,novice,,,easier,false,false,closed
+,JORDAN BOWL,trail,open,true,true,Boots Off,OPEN,YES,YES,novice,,,easier,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Boots On,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,AURORA PEAK,trail,closed,false,false,Borealis,CLOSED,NO,NO,novice,,,easier,false,false,closed
 ,MERRILL HILL,trail,closed,,,Brilliant,CLOSED,,,novice,,,easier,false,false,closed
@@ -34,14 +34,14 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,NORTH PEAK,trail,closed,,,Enchanted Forest,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,Escapade,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,OZ,trail,closed,,,Eureka,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,JORDAN BOWL,trail,scheduled,false,false,Excalibur,SCHEDULED,NO,NO,intermediate,,,more_difficult,false,false,closed
+,JORDAN BOWL,trail,open,false,false,Excalibur,OPEN,NO,NO,intermediate,,,more_difficult,false,false,open
 ,SPRUCE PEAK,trail,closed,,,Exit Left,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,,,Exit Right,CLOSED,,,novice,,,easier,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Firestar,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,OZ,trail,closed,,,Flying Monkey,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SPRUCE PEAK,trail,closed,,,Gnarnia,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Goat Path,CLOSED,,,intermediate,,,more_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,false,false,Grand Avenue,CLOSED,NO,NO,novice,,,easier,false,false,closed
+,JORDAN BOWL,trail,open,false,true,Grand Avenue,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,,Grand Rapids,CLOSED,,NO,intermediate,,,more_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Green Cheese,CLOSED,,,novice,,,easier,false,false,closed
 ,WHITE CAP,trail,closed,,,Heat's Off,CLOSED,,,intermediate,,,more_difficult,false,false,closed
@@ -72,7 +72,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,AURORA PEAK,trail,closed,false,,Lower Vortex,CLOSED,,NO,expert,,,extremely_difficult,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Lower Wizard's Gulch,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,closed,,,Mixing Bowl,CLOSED,,,novice,,,easier,false,false,closed
-,LOCKE MOUNTAIN,trail,event,false,true,Monday Mourning,EVENT,YES,NO,advanced,,,most_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,open,false,true,Monday Mourning,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,closed,,,Moonstruck,CLOSED,,,novice,,,easier,false,false,closed
 ,UPHILL ROUTES,trail,closed,,,North Peak,closed,,,,,,easier,false,false,closed
 ,NORTH PEAK,trail,closed,,,Northern Exposure,CLOSED,,,expert,,,extremely_difficult,false,false,closed
@@ -94,7 +94,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,open,false,true,Roadrunner,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,closed,,,Rocking Chair,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Rogue Angel,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
-,JORDAN BOWL,trail,closed,false,false,Roundabout,CLOSED,NO,NO,novice,,,easier,false,false,closed
+,JORDAN BOWL,trail,open,false,true,Roundabout,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,OZ,trail,closed,,,Ruby Palace,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,WHITE CAP,trail,closed,,,Salvation,CLOSED,,,intermediate,,,more_difficult,false,false,closed
 ,NORTH PEAK,trail,closed,false,false,Second Mile,CLOSED,NO,NO,novice,,,easier,false,false,closed

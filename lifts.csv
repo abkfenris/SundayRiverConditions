@@ -16,8 +16,8 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,NORTH PEAK,Express quad chair,closed,,,,North Peak Express #6,08:00,16:00,,CLOSED,,Chairlift,4.0,closed
 ,OZ,Quad chair,closed,,,,OZ Quad #15,10:00,14:00,,CLOSED,,Chairlift,4.0,closed
 ,AURORA PEAK,Triple chair,closed,,,,Quantum Leap Triple #3,09:00,15:45,,CLOSED,,Chairlift,3.0,closed
-,SOUTH RIDGE,Express quad chair,scheduled,,,,South Ridge Express #2,09:00,15:30,,SCHEDULED,9:00AM - 3:30PM,Chairlift,4.0,scheduled
-,SPRUCE PEAK,Triple chair,scheduled,,,,Spruce Peak Triple #8,09:00,15:15,,SCHEDULED,9:00PM - 3:15PM,Chairlift,3.0,scheduled
+,SOUTH RIDGE,Express quad chair,open,,,,South Ridge Express #2,09:00,18:30,,OPEN,9:00AM - 6:30PM,Chairlift,4.0,open
+,SPRUCE PEAK,Triple chair,scheduled,,,,Spruce Peak Triple #8,09:00,15:15,,SCHEDULED,9:00AM - 3:15PM,Chairlift,3.0,scheduled
 ,SOUTH RIDGE,Magic carpet,scheduled,,,,Upper Sundance Surface Lift #18,09:00,16:00,,SCHEDULED,9:00AM - 3:30PM,Lift,2.0,scheduled
 ,WHITE CAP,Quad chair,scheduled,,,,White Cap Quad #9,09:00,16:00,,SCHEDULED,9:00AM - 3:30PM,Chairlift,4.0,scheduled
 ,WHITE CAP,Quad chair,closed,,,,White Heat Quad #10,08:00,15:45,,CLOSED,"

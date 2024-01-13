@@ -1,24 +1,24 @@
 resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statusDetail,status,comment,subtype,persons,global_status
-,LOCKE MOUNTAIN,T-Bar,scheduled,,,,Alera Group Competition Lift #5,08:00,15:30,,SCHEDULED,GACP Only,Lift,2.0,scheduled
-,AURORA PEAK,Quad chair,open,,,,Aurora Peak Quad #12,08:00,15:45,,OPEN,"8:00AM-3:45PM
-",Chairlift,4.0,open
-,BARKER MOUNTAIN,Six-person chair,open,,,,Barker 6 #1,08:00,16:00,,OPEN,8:00AM - 4:00PM,Lift,2.0,open
-,SOUTH RIDGE,Gondola/Funitel,on_hold,,,,Chondola #7,08:00,18:30,,ON HOLD,8:00AM - 6:30PM,Gondola,,on_hold
-,JORDAN BOWL,Express quad chair,open,,,,Jordan 8 Lift #14,08:00,16:00,,OPEN,8:00AM - 4:00PM,Lift,2.0,open
-,JORDAN BOWL,Double chair,scheduled,,,,Jordan Mountain Double #13,09:00,15:30,,SCHEDULED,9:00AM-3:30PM,Chairlift,2.0,scheduled
+,LOCKE MOUNTAIN,T-Bar,closed,,,,Alera Group Competition Lift #5,08:00,15:30,,CLOSED,GACP Only,Lift,2.0,closed
+,AURORA PEAK,Quad chair,closed,,,,Aurora Peak Quad #12,08:00,15:45,,CLOSED,"8:00AM-3:45PM
+",Chairlift,4.0,closed
+,BARKER MOUNTAIN,Six-person chair,closed,,,,Barker 6 #1,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Lift,2.0,closed
+,SOUTH RIDGE,Gondola/Funitel,open,,,,Chondola #7,08:00,18:30,,OPEN,8:00AM - 6:30PM,Gondola,,open
+,JORDAN BOWL,Express quad chair,closed,,,,Jordan 8 Lift #14,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Lift,2.0,closed
+,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,9:00AM-3:30PM,Chairlift,2.0,closed
 ,WHITE CAP,Quad chair,closed,,,,Little White Cap Quad #11,08:00,16:00,,CLOSED,,Chairlift,4.0,closed
-,LOCKE MOUNTAIN,Triple chair,open,,,,Locke Mountain Triple #4,08:00,15:45,,OPEN,8:00AM - 3:45PM,Chairlift,3.0,open
-,SOUTH RIDGE,Magic carpet,open,,,,Lower Sundance Surface Lift #16,08:00,16:00,,OPEN,8:00AM - 4:00PM,Lift,2.0,open
+,LOCKE MOUNTAIN,Triple chair,closed,,,,Locke Mountain Triple #4,08:00,15:45,,CLOSED,9:00AM - 3:45PM,Chairlift,3.0,closed
+,SOUTH RIDGE,Magic carpet,closed,,,,Lower Sundance Surface Lift #16,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Lift,2.0,closed
 ,MERRILL HILL,Triple chair,closed,,,,Merrill Hill Triple #19,09:00,15:45,,CLOSED,"
 ",Lift,2.0,closed
-,SOUTH RIDGE,Magic carpet,open,,,,Middle Sundance Surface Lift #17,08:00,16:00,,OPEN,8:00AM - 4:00PM,Lift,2.0,open
-,NORTH PEAK,Express quad chair,open,,,,North Peak Express #6,08:00,16:00,,OPEN,8:00AM - 4:00PM,Chairlift,4.0,open
+,SOUTH RIDGE,Magic carpet,closed,,,,Middle Sundance Surface Lift #17,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Lift,2.0,closed
+,NORTH PEAK,Express quad chair,closed,,,,North Peak Express #6,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Chairlift,4.0,closed
 ,OZ,Quad chair,closed,,,,OZ Quad #15,10:00,14:00,,CLOSED,,Chairlift,4.0,closed
-,AURORA PEAK,Triple chair,scheduled,,,,Quantum Leap Triple #3,09:00,15:45,,SCHEDULED,9:00AM - 3:45PM,Chairlift,3.0,scheduled
+,AURORA PEAK,Triple chair,closed,,,,Quantum Leap Triple #3,09:00,15:45,,CLOSED,9:00AM - 3:45PM,Chairlift,3.0,closed
 ,SOUTH RIDGE,Express quad chair,open,,,,South Ridge Express #2,08:00,18:30,,OPEN,8:00AM - 6:30PM,Chairlift,4.0,open
-,SPRUCE PEAK,Triple chair,open,,,,Spruce Peak Triple #8,08:00,15:45,,OPEN,"8:00AM - 3:45PM
-",Chairlift,3.0,open
-,SOUTH RIDGE,Magic carpet,open,,,,Upper Sundance Surface Lift #18,08:00,16:00,,OPEN,8:00AM - 4:00PM,Lift,2.0,open
-,WHITE CAP,Quad chair,open,,,,White Cap Quad #9,08:00,16:00,,OPEN,8:00AM - 4:00PM,Chairlift,4.0,open
+,SPRUCE PEAK,Triple chair,closed,,,,Spruce Peak Triple #8,08:00,15:45,,CLOSED,"8:00AM - 3:45PM
+",Chairlift,3.0,closed
+,SOUTH RIDGE,Magic carpet,closed,,,,Upper Sundance Surface Lift #18,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Lift,2.0,closed
+,WHITE CAP,Quad chair,closed,,,,White Cap Quad #9,08:00,16:00,,CLOSED,8:00AM - 4:00PM,Chairlift,4.0,closed
 ,WHITE CAP,Quad chair,closed,,,,White Heat Quad #10,08:00,15:45,,CLOSED,"
 ",Chairlift,4.0,closed

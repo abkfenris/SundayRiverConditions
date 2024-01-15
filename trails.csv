@@ -10,7 +10,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,WHITE CAP,trail,closed,,,Bear Paw,CLOSED,,,novice,,,easier,false,false,closed
 ,LOCKE MOUNTAIN,trail,closed,,,Bim's Whim,CLOSED,,,advanced,,,most_difficult,false,false,closed
 ,AURORA PEAK,trail,closed,,,Black Hole,CLOSED,,,expert,,,extremely_difficult,false,false,closed
-,JORDAN BOWL,trail,closed,,,Blind Ambition,CLOSED,,,advanced,,,most_difficult,false,false,closed
+,JORDAN BOWL,trail,open,,,Blind Ambition,OPEN,,,advanced,,,most_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,Boots Off,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Boots On,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,AURORA PEAK,trail,open,false,true,Borealis,OPEN,YES,NO,novice,,,easier,false,false,grooming
@@ -25,7 +25,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,OZ,trail,closed,false,,Cyclone,CLOSED,,NO,novice,,,easier,false,false,closed
 ,JORDAN BOWL,trail,closed,,,Double Blind,CLOSED,,,expert,,,extremely_difficult,false,false,closed
 ,SOUTH RIDGE,trail,open,false,true,Double Dipper,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,MERRILL HILL,trail,open,true,false,Double Refraction,OPEN,NO,YES,novice,,,easier,false,false,open
+,MERRILL HILL,trail,open,false,true,Double Refraction,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,SPRUCE PEAK,trail,open,false,false,Downdraft,OPEN,NO,NO,advanced,,,most_difficult,false,false,open
 ,NORTH PEAK,trail,open,false,true,Dream Maker,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,SOUTH RIDGE,trail,open,false,true,Easy Street,OPEN,YES,NO,novice,,,easier,false,false,grooming

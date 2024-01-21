@@ -40,7 +40,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,open,false,true,Firestar,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,OZ,trail,open,,,Flying Monkey,OPEN,,,expert,,,extremely_difficult,false,false,open
 ,SPRUCE PEAK,trail,open,,,Gnarnia,OPEN,,,expert,3 mile down,,extremely_difficult,false,false,open
-,LOCKE MOUNTAIN,trail,open,false,false,Goat Path,OPEN,NO,NO,intermediate,,,more_difficult,false,false,open
+,LOCKE MOUNTAIN,trail,closed,false,false,Goat Path,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Grand Avenue,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,Grand Rapids,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,WHITE CAP,trail,scheduled,false,true,Green Cheese,SCHEDULED,YES,NO,novice,,,easier,false,false,grooming

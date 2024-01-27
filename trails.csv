@@ -95,7 +95,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SOUTH RIDGE,trail,open,false,true,Ridge Run,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,scheduled,false,true,Right Stuff,SCHEDULED,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Roadrunner,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,false,Rocking Chair,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
+,BARKER MOUNTAIN,trail,scheduled,false,false,Rocking Chair,SCHEDULED,NO,NO,intermediate,,,more_difficult,false,false,closed
 ,JORDAN BOWL,trail,open,false,true,Rogue Angel,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Roundabout,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,OZ,trail,open,,,Ruby Palace,OPEN,,,expert,,,extremely_difficult,false,false,open

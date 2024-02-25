@@ -19,7 +19,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,NORTH PEAK,trail,open,false,false,Broadway Connection,OPEN,NO,NO,novice,,,easier,false,false,open
 ,LOCKE MOUNTAIN,trail,open,false,true,Cascades,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,AURORA PEAK,trail,open,false,false,Celestial,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
-,OZ,trail,closed,false,true,Cowardly Lion,CLOSED,YES,NO,novice,,,easier,false,false,grooming
+,OZ,trail,open,false,true,Cowardly Lion,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Cutback,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Cutoff,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,OZ,trail,open,false,true,Cyclone,OPEN,YES,NO,novice,,,easier,false,false,grooming
@@ -95,7 +95,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SOUTH RIDGE,trail,open,false,true,Ridge Run,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,true,Right Stuff,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Roadrunner,OPEN,YES,NO,novice,,,easier,false,false,grooming
-,BARKER MOUNTAIN,trail,closed,false,true,Rocking Chair,CLOSED,YES,NO,intermediate,,,more_difficult,false,false,grooming
+,BARKER MOUNTAIN,trail,event,false,true,Rocking Chair,EVENT,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Rogue Angel,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,JORDAN BOWL,trail,open,false,true,Roundabout,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,OZ,trail,closed,false,false,Ruby Palace,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed

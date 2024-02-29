@@ -2,7 +2,8 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,LOCKE MOUNTAIN,T-Bar,scheduled,,,,Alera Group Competition Lift #5,08:00,12:30,,SCHEDULED,GACP ONLY,Lift,2.0,scheduled
 ,AURORA PEAK,Quad chair,scheduled,,,,Aurora Peak Quad #12,09:00,15:45,,SCHEDULED,"9AM-3:45PM
 ",Chairlift,4.0,scheduled
-,BARKER MOUNTAIN,Six-person chair,scheduled,,,,Barker 6 #1,09:00,16:00,,SCHEDULED,9AM-4PM,Lift,2.0,scheduled
+,BARKER MOUNTAIN,Six-person chair,scheduled,,,,Barker 6 #1,09:00,16:00,,SCHEDULED,"9AM-4PM
+No Beginner Terrain",Lift,2.0,scheduled
 ,SOUTH RIDGE,Gondola/Funitel,scheduled,,,,Chondola #7,09:00,16:00,,SCHEDULED,9AM-4PM,Gondola,,scheduled
 ,JORDAN BOWL,Express quad chair,scheduled,,,,Jordan 8 Lift #14,09:00,16:00,,SCHEDULED,9AM-4PM,Lift,2.0,scheduled
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,08:00,15:30,,CLOSED,"8AM-3:30PM

@@ -8,7 +8,8 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,JORDAN BOWL,Express quad chair,scheduled,,,,Jordan 8 Lift #14,09:00,16:00,,SCHEDULED,9AM-4PM,Lift,2.0,scheduled
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,"9AM-3:30PM
 ",Chairlift,2.0,closed
-,WHITE CAP,Quad chair,scheduled,,,,Little White Cap Quad #11,09:00,16:00,,SCHEDULED,9AM-4PM,Chairlift,4.0,scheduled
+,WHITE CAP,Quad chair,scheduled,,,,Little White Cap Quad #11,09:00,16:00,,SCHEDULED,"9AM-4PM
+No Beginner Terrain",Chairlift,4.0,scheduled
 ,LOCKE MOUNTAIN,Triple chair,closed,,,,Locke Mountain Triple #4,09:00,15:45,,CLOSED,9AM-3:45PM,Chairlift,3.0,closed
 ,SOUTH RIDGE,Magic carpet,scheduled,,,,Lower Sundance Surface Lift #16,09:00,16:00,,SCHEDULED,9AM-4PM,Lift,2.0,scheduled
 ,MERRILL HILL,Triple chair,closed,,,,Merrill Hill Triple #19,09:00,15:45,,CLOSED,"9AM-3:45PM

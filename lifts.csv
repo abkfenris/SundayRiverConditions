@@ -1,5 +1,5 @@
 resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statusDetail,status,comment,subtype,persons,global_status
-,LOCKE MOUNTAIN,T-Bar,open,,,,Alera Group Competition Lift #5,09:00,12:30,,OPEN,GACP only,Lift,2.0,open
+,LOCKE MOUNTAIN,T-Bar,on_hold,,,,Alera Group Competition Lift #5,09:00,12:30,,ON HOLD,GACP only,Lift,2.0,on_hold
 ,AURORA PEAK,Quad chair,on_hold,,,,Aurora Peak Quad #12,09:00,15:45,,ON HOLD,"9AM-3:45PM
 ",Chairlift,4.0,on_hold
 ,BARKER MOUNTAIN,Six-person chair,on_hold,,,,Barker 6 #1,09:00,16:00,,ON HOLD,"9AM-4PM
@@ -18,7 +18,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,NORTH PEAK,Express quad chair,closed,,,,North Peak Express #6,09:00,16:00,,CLOSED,8AM-4PM,Chairlift,4.0,closed
 ,OZ,Quad chair,closed,,,,OZ Quad #15,10:00,14:00,,CLOSED,10AM-2PM,Chairlift,4.0,closed
 ,AURORA PEAK,Triple chair,closed,,,,Quantum Leap Triple #3,10:00,15:45,,CLOSED,9AM-3:45PM,Chairlift,3.0,closed
-,SOUTH RIDGE,Express quad chair,open,,,,South Ridge Express #2,09:00,16:00,,OPEN,9AM-4PM,Chairlift,4.0,open
+,SOUTH RIDGE,Express quad chair,on_hold,,,,South Ridge Express #2,09:00,16:00,,ON HOLD,9AM-4PM,Chairlift,4.0,on_hold
 ,SPRUCE PEAK,Triple chair,on_hold,,,,Spruce Peak Triple #8,09:00,15:45,,ON HOLD,"9AM-3:45PM
 ",Chairlift,3.0,on_hold
 ,SOUTH RIDGE,Magic carpet,open,,,,Upper Sundance Surface Lift #18,09:00,16:00,,OPEN,9AM-4PM,Lift,2.0,open

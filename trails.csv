@@ -40,7 +40,7 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,JORDAN BOWL,trail,open,false,true,Firestar,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,OZ,trail,open,false,false,Flying Monkey,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
 ,SPRUCE PEAK,trail,closed,false,false,Gnarnia,CLOSED,NO,NO,expert,Open from 3 Mile down,,extremely_difficult,false,false,closed
-,LOCKE MOUNTAIN,trail,closed,false,false,Goat Path,CLOSED,NO,NO,intermediate,,,more_difficult,false,false,closed
+,LOCKE MOUNTAIN,trail,open,false,false,Goat Path,OPEN,NO,NO,intermediate,Jungle Road to Ecstasy,,more_difficult,false,false,open
 ,JORDAN BOWL,trail,open,false,true,Grand Avenue,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,NORTH PEAK,trail,open,false,true,Grand Rapids,OPEN,YES,NO,intermediate,Thin Cover off Second Mile,,more_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Green Cheese,OPEN,YES,NO,novice,,,easier,false,false,grooming
@@ -70,9 +70,9 @@ resort_id,sector,type,opening,snowmaking,grooming,name,status,groomed,snowMaking
 ,SPRUCE PEAK,trail,open,false,true,Lower Risky Business,OPEN,YES,NO,intermediate,,,more_difficult,false,false,grooming
 ,BARKER MOUNTAIN,trail,open,false,false,Lower Upper Cut,OPEN,NO,NO,intermediate,,,more_difficult,false,false,open
 ,AURORA PEAK,trail,open,false,false,Lower Vortex,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
-,JORDAN BOWL,trail,scheduled,false,false,Lower Wizard's Gulch,SCHEDULED,NO,NO,expert,,,extremely_difficult,false,false,closed
+,JORDAN BOWL,trail,open,false,false,Lower Wizard's Gulch,OPEN,NO,NO,expert,,,extremely_difficult,false,false,open
 ,SOUTH RIDGE,trail,open,false,false,Mixing Bowl,OPEN,NO,NO,novice,Thin Cover,,easier,false,false,open
-,LOCKE MOUNTAIN,trail,event,false,true,Monday Mourning,EVENT,YES,NO,advanced,,,most_difficult,false,false,grooming
+,LOCKE MOUNTAIN,trail,open,false,true,Monday Mourning,OPEN,YES,NO,advanced,,,most_difficult,false,false,grooming
 ,WHITE CAP,trail,open,false,true,Moonstruck,OPEN,YES,NO,novice,,,easier,false,false,grooming
 ,UPHILL ROUTES,trail,open,,true,North Peak,open,yes,,,,,easier,false,false,grooming
 ,NORTH PEAK,trail,closed,false,false,Northern Exposure,CLOSED,NO,NO,expert,,,extremely_difficult,false,false,closed

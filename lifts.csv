@@ -5,7 +5,7 @@ resort_id,sector,type,opening,hours,notes,vertical,name,openTime,closeTime,statu
 ,BARKER MOUNTAIN,Six-person chair,closed,,,,Barker 6 #1,09:00,16:00,,CLOSED,"
 ",Lift,2.0,closed
 ,SOUTH RIDGE,Gondola/Funitel,closed,,,,Chondola #7,08:00,16:00,,CLOSED,,Gondola,,closed
-,JORDAN BOWL,Express quad chair,scheduled,,,,Jordan 8 Lift #14,08:00,16:00,,SCHEDULED,8AM-4PM,Lift,2.0,scheduled
+,JORDAN BOWL,Express quad chair,on_hold,,,,Jordan 8 Lift #14,08:00,16:00,,ON HOLD,On Hold for Thunder & Lightning as of 4/28 7:46 AM,Lift,2.0,on_hold
 ,JORDAN BOWL,Double chair,closed,,,,Jordan Mountain Double #13,09:00,15:30,,CLOSED,"
 ",Chairlift,2.0,closed
 ,WHITE CAP,Quad chair,closed,,,,Little White Cap Quad #11,08:00,16:00,,CLOSED,,Chairlift,4.0,closed
